@@ -2210,13 +2210,13 @@ var pokemonList = {
         },
         {
             "number": "350",
-            "name": "Milotic",
+            "name": "Milotic (M)",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milotic.png"
         },
         {
             "number": "350",
-            "name": "Milotic",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milotic.png"
+            "name": "Milotic (F)",
+            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milotic-female.png"
         },
         {
             "number": "351",
@@ -6336,8 +6336,13 @@ var pokemonList = {
         },
         {
             "number": "849",
-            "name": "Toxtricity",
+            "name": "Toxtricity (Amped)",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity.png"
+        },
+        {
+            "number": "849",
+            "name": "Toxtricity (Low Key)",
+            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity-low-key.png"
         },
         {
             "number": "851",
@@ -6363,14 +6368,14 @@ var pokemonList = {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-strawberry.png"
-        },
+        }
+    ],
+    "44": [
         {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-strawberry.png"
-        }
-    ],
-    "44": [
+        },
         {
             "number": "869",
             "name": "Alcremie",
@@ -6515,14 +6520,14 @@ var pokemonList = {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-star.png"
-        },
+        }
+    ],
+    "45": [
         {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-star.png"
-        }
-    ],
-    "45": [
+        },
         {
             "number": "869",
             "name": "Alcremie",
@@ -6667,14 +6672,14 @@ var pokemonList = {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-ribbon.png"
-        },
+        }
+    ],
+    "46": [
         {
             "number": "869",
             "name": "Alcremie",
             "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-ribbon.png"
-        }
-    ],
-    "46": [
+        },
         {
             "number": "879",
             "name": "Copperajah",
