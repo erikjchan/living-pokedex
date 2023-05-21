@@ -33,10 +33,10 @@ number,name,image
 26,Raichu (F),
 27,Sandshrew,
 28,Sandslash,
-29,Nidoran♀,nidoran-female
+29,Nidoran♀,nidoran-f
 30,Nidorina,
 31,Nidoqueen,
-32,Nidoran♂,nidoran-male
+32,Nidoran♂,nidoran-m
 33,Nidorino,
 34,Nidoking,
 35,Clefairy,
@@ -257,8 +257,8 @@ number,name,image
 201,Unown (X),unown-x
 201,Unown (Y),unown-y
 201,Unown (Z),unown-z
-201,Unown (!),unown-exclaim
-201,Unown (?),unown-question
+201,Unown (!),unown-em
+201,Unown (?),unown-qm
 202,Wobbuffet (M),
 202,Wobbuffet (F),
 203,Girafarig (M),
@@ -474,9 +474,9 @@ number,name,image
 384,Rayquaza,
 385,Jirachi,
 386,Deoxys,
-386,Deoxys (Attack),attack-deoxys
-386,Deoxys (Defense),defense-deoxys
-386,Deoxys (Speed),speed-deoxys
+386,Deoxys (Attack),deoxys-attack
+386,Deoxys (Defense),deoxys-defense
+386,Deoxys (Speed),deoxys-speed
 387,Turtwig,
 388,Grotle,
 389,Torterra,
@@ -514,11 +514,11 @@ number,name,image
 410,Shieldon,
 411,Bastiodon,
 412,Burmy (Plant),burmy
-412,Burmy (Sandy),sandy-burmy
-412,Burmy (Trash),trash-burmy
+412,Burmy (Sandy),burmy-sandy
+412,Burmy (Trash),burmy-trash
 413,Wormadam (Plant),wormadam
-413,Wormadam (Sandy),sandy-wormadam
-413,Wormadam (Trash),trash-wormadam
+413,Wormadam (Sandy),wormadam-sandy
+413,Wormadam (Trash),wormadam-trash
 414,Mothim,
 415,Combee (M),
 415,Combee (F),
@@ -607,11 +607,11 @@ number,name,image
 477,Dusknoir,
 478,Froslass,
 479,Rotom,
-479,Rotom (Heat),heat-rotom
-479,Rotom (Wash),wash-rotom
-479,Rotom (Frost),frost-rotom
-479,Rotom (Fan),fan-rotom
-479,Rotom (Mow),mow-rotom
+479,Rotom (Heat),rotom-heat
+479,Rotom (Wash),rotom-wash
+479,Rotom (Frost),rotom-frost
+479,Rotom (Fan),rotom-fan
+479,Rotom (Mow),rotom-mow
 480,Uxie,
 481,Mesprit,
 482,Azelf,
@@ -684,7 +684,7 @@ number,name,image
 548,Petilil,
 549,Lilligant,
 550,Basculin (Red-Striped),basculin
-550,Basculin (Blue-Striped),blue-basculin
+550,Basculin (Blue-Striped),basculin-blue-striped
 551,Sandile,
 552,Krokorok,
 553,Krookodile,
@@ -720,13 +720,13 @@ number,name,image
 583,Vanillish,
 584,Vanilluxe,
 585,Deerling (Spring),deerling
-585,Deerling (Summer),summer-deerling
-585,Deerling (Autumn),autumn-deerling
-585,Deerling (Winter),winter-deerling
+585,Deerling (Summer),deerling-summer
+585,Deerling (Autumn),deerling-autumn
+585,Deerling (Winter),deerling-winter
 586,Sawsbuck (Spring),sawsbuck
-586,Sawsbuck (Summer),summer-sawsbuck
-586,Sawsbuck (Autumn),autumn-sawsbuck
-586,Sawsbuck (Winter),winter-sawsbuck
+586,Sawsbuck (Summer),sawsbuck-summer
+586,Sawsbuck (Autumn),sawsbuck-autumn
+586,Sawsbuck (Winter),sawsbuck-winter
 587,Emolga,
 588,Karrablast,
 589,Escavalier,
@@ -784,16 +784,16 @@ number,name,image
 639,Terrakion,
 640,Virizion,
 641,Torandus (Incarnate),tornadus
-641,Tornadus (Therian),therian-tornadus
+641,Tornadus (Therian),tornadus-therian
 642,Thundurus (Incarnate),thundurus
-642,Thundurus (Therian),therian-thundurus
+642,Thundurus (Therian),thundurus-therian
 643,Reshiram,
 644,Zekrom,
 645,Landorus (Incarnate),landorus
-645,Landorus (Therian),therian-landorus
+645,Landorus (Therian),landorus-therian
 646,Kyurem,
 647,Keldeo,
-647,Keldeo (Resolute),resolute-keldeo
+647,Keldeo (Resolute),keldeo-resolute
 648,Meloetta,
 649,Genesect,
 650,Chespin,
@@ -834,20 +834,20 @@ number,name,image
 668,Pyroar (M),
 668,Pyroar (F),
 669,Flabébé (Red),flabebe
-669,Flabébé (Yellow),yellow-flabebe
-669,Flabébé (Orange),orange-flabebe
-669,Flabébé (Blue),blue-flabebe
-669,Flabébé (White),white-flabebe
+669,Flabébé (Yellow),flabebe-yellow
+669,Flabébé (Orange),flabebe-orange
+669,Flabébé (Blue),flabebe-blue
+669,Flabébé (White),flabebe-white
 670,Floette (Red),floette
-670,Floette (Yellow),yellow-floette
-670,Floette (Orange),orange-floette
-670,Floette (Blue),blue-floette
-670,Floette (White),white-floette
+670,Floette (Yellow),floette-yellow
+670,Floette (Orange),floette-orange
+670,Floette (Blue),floette-blue
+670,Floette (White),floette-white
 671,Florges (Red),florges
-671,Florges (Yellow),yellow-florges
-671,Florges (Orange),orange-florges
-671,Florges (Blue),blue-florges
-671,Florges (White),white-florges
+671,Florges (Yellow),florges-yellow
+671,Florges (Orange),florges-orange
+671,Florges (Blue),florges-blue
+671,Florges (White),florges-white
 672,Skiddo,
 673,Gogoat,
 674,Pancham,
@@ -855,7 +855,7 @@ number,name,image
 676,Furfrou,
 677,Espurr,
 678,Meowstic (M),
-678,Meowstic (F),
+678,Meowstic (F),meowstic-female
 679,Honedge,
 680,Doublade,
 681,Aegislash,
@@ -887,14 +887,14 @@ number,name,image
 707,Klefki,
 708,Phantump,
 709,Trevenant,
-710,Pumpkaboo (Small Size),small-pumpkaboo
+710,Pumpkaboo (Small Size),pumpkaboo-small
 710,Pumpkaboo (Average Size),pumpkaboo
-710,Pumpkaboo (Large Size),large-pumpkaboo
-710,Pumpkaboo (Super Size),super-pumpkaboo
-711,Gourgeist (Small Size),small-gourgeist
+710,Pumpkaboo (Large Size),pumpkaboo-large
+710,Pumpkaboo (Super Size),pumpkaboo-super
+711,Gourgeist (Small Size),gourgeist-small
 711,Gourgeist (Average Size),gourgeist
-711,Gourgeist (Large Size),large-gourgeist
-711,Gourgeist (Super Size),super-gourgeist
+711,Gourgeist (Large Size),gourgeist-large
+711,Gourgeist (Super Size),gourgeist-super
 712,Bergmite,
 713,Avalugg,
 714,Noibat,
@@ -926,16 +926,16 @@ number,name,image
 738,Vikavolt,
 739,Crabrawler,
 740,Crabominable,
-741,Oricorio (Baile),oricorio
-741,Oricorio (Pom-Pom),oricorio-pom-pom
-741,Oricorio (Pa'u),oricorio-pau
-741,Oricorio (Sensu),oricorio-sensu
+741,Oricorio (Baile Style),oricorio
+741,Oricorio (Pom-Pom Style),oricorio-pom-pom
+741,Oricorio (Pa'u Style),oricorio-pau
+741,Oricorio (Sensu Style),oricorio-sensu
 742,Cutiefly,
 743,Ribombee,
 744,Rockruff,
 745,Lycanroc (Midday),lycanroc
-745,Lycanroc (Midnight),midnight-lycanroc
-745,Lycanroc (Dusk),dusk-lycanroc
+745,Lycanroc (Midnight),lycanroc-midnight
+745,Lycanroc (Dusk),lycanroc-dusk
 746,Wishiwashi,
 747,Mareanie,
 748,Toxapex,
@@ -964,13 +964,13 @@ number,name,image
 771,Pyukumuku,
 772,Type: Null,type-null
 773,Silvally,
-774,Minior (Red),minior-red
-774,Minior (Orange),minior-orange
-774,Minior (Yellow),minior-yellow
-774,Minior (Green),minior-green
-774,Minior (Blue),minior-blue
-774,Minior (Indigo),minior-indigo
-774,Minior (Violet),minior-violet
+774,Minior (Red),minior-red-core
+774,Minior (Orange),minior-orange-core
+774,Minior (Yellow),minior-yellow-core
+774,Minior (Green),minior-green-core
+774,Minior (Blue),minior-blue-core
+774,Minior (Indigo),minior-indigo-core
+774,Minior (Violet),minior-violet-core
 775,Komala,
 776,Turtonator,
 777,Togedemaru,
@@ -1052,9 +1052,9 @@ number,name,image
 852,Clobbopus,
 853,Grapploct,
 854,Sinistea (Phony),sinistea
-854,Sinistea (Antique),sinistea-antique
+854,Sinistea (Antique),sinistea
 855,Polteageist (Phony),polteageist
-855,Polteageist (Antique),polteageist-antique
+855,Polteageist (Antique),polteageist
 856,Hatenna,
 857,Hattrem,
 858,Hatterene,
@@ -1138,7 +1138,7 @@ number,name,image
 874,Stonjourner,
 875,Eiscue,
 876,Indeedee (M),
-876,Indeedee (F),
+876,Indeedee (F),indeedee-female
 877,Morpeko,
 878,Cufant,
 879,Copperajah,
@@ -1166,8 +1166,123 @@ number,name,image
 900,Kleavor,
 901,Ursaluna,
 902,Basculegion (M),
-902,Basculegion (F),
+902,Basculegion (F),basculegion-female
 903,Sneasler,
 904,Overqwil,
 905,Enamorus (Incarnate),enamorus
-905,Enamorus (Therian),therian-enamorus
+905,Enamorus (Therian),enamorus-therian
+906,Sprigatito,
+907,Floragato,
+908,Meowscarada,
+909,Fuecoco,
+910,Crocalor,
+911,Skeledirge,
+912,Quaxly,
+913,Quaxwell,
+914,Quaquaval,
+915,Lechonk,
+916,Oinkologne (M),
+916,Oinkologne (F),
+917,Tarountula,
+918,Spidops,
+919,Nymble,
+920,Lokix,
+921,Pawmi,
+922,Pawmo,
+923,Pawmot,
+924,Tandemaus,
+925,Maushold (Family of Four),
+925,Maushold (Family of Three),
+926,Fidough,
+927,Dachsbun,
+928,Smoliv,
+929,Dolliv,
+930,Arboliva,
+931,Squawkabilly (Green Plumage),
+931,Squawkabilly (Blue Plumage),
+931,Squawkabilly (Yellow Plumage),
+931,Squawkabilly (White Plumage),
+932,Nacli,
+933,Naclstack,
+934,Garganacl,
+935,Charcadet,
+936,Armarouge,
+937,Ceruledge,
+938,Tadbulb,
+939,Bellibolt,
+940,Wattrel,
+941,Kilowattrel,
+942,Maschiff,
+943,Mabosstiiff,
+944,Shroodle,
+945,Grafaiai,
+946,Bramblin,
+947,Brambleghast,
+948,Toedscool,
+949,Toedscruel,
+950,Klawf,
+951,Capsakid,
+952,Scovillain,
+953,Rellor,
+954,Rabsca,
+955,Flittle,
+956,Espathra,
+957,Tinkatink,
+958,Tinkatuff,
+959,Tinkaton,
+960,Wiglett,
+961,Wugtrio,
+962,Bombirdier,
+963,Finizen,
+964,Palafin (Zero),
+964,Palafin (Hero),
+965,Varoom,
+966,Revavroom,
+967,Cyclizar,
+968,Orthworm,
+969,Glimmet,
+970,Glimmora,
+971,Greavard,
+972,Houndstone,
+973,Flamigo,
+974,Cetoddle,
+975,Cetitan,
+976,Veluza,
+977,Dondozo,
+978,Tatsugiri (Curly),
+978,Tatsugiri (Droopy),
+978,Tatsugiri (Stretchy),
+979,Annihilape,
+980,Clodsire,
+981,Farigiraf,
+982,Dudunsparce (Two-Segment),
+982,Dudunsparce (Three-Segment),
+983,Kingambit,
+984,Great Tusk,
+985,Scream Tail,
+986,Brute Bonnet,
+987,Flutter Mane,
+988,Slither Wing,
+989,Sandy Shocks,
+990,Iron Treads,
+991,Iron Bundle,
+992,Iron Hands,
+993,Iron Jugulis,
+994,Iron Moth,
+995,Iron Thorns,
+996,Frigibax,
+997,Arctibax,
+998,Baxcalibur,
+999,Gimmighoul (Chest),
+999,Gimmighoul (Roaming),
+1000,Gholdengo,
+1001,Wo-Chien,
+1002,Chien-Pao,
+1003,Ting-Lu,
+1004,Chi-Yu,
+1005,Roaring Moon,
+1006,Iron Valiant,
+1007,Koraidon,
+1008,Miraidon,
+1009,Walking Wake,
+1010,Iron Leaves,

@@ -3,6702 +3,7303 @@ var pokemonList = {
         {
             "number": "1",
             "name": "Bulbasaur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bulbasaur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png"
         },
         {
             "number": "2",
             "name": "Ivysaur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ivysaur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ivysaur.png"
         },
         {
             "number": "3",
             "name": "Venusaur (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venusaur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/venusaur.png"
         },
         {
             "number": "3",
             "name": "Venusaur (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venusaur-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/venusaur-f.png"
         },
         {
             "number": "4",
             "name": "Charmander",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/charmander.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/charmander.png"
         },
         {
             "number": "5",
             "name": "Charmeleon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/charmeleon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/charmeleon.png"
         },
         {
             "number": "6",
             "name": "Charizard",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/charizard.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/charizard.png"
         },
         {
             "number": "7",
             "name": "Squirtle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/squirtle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/squirtle.png"
         },
         {
             "number": "8",
             "name": "Wartortle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wartortle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wartortle.png"
         },
         {
             "number": "9",
             "name": "Blastoise",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blastoise.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blastoise.png"
         },
         {
             "number": "10",
             "name": "Caterpie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/caterpie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/caterpie.png"
         },
         {
             "number": "11",
             "name": "Metapod",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/metapod.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/metapod.png"
         },
         {
             "number": "12",
             "name": "Butterfree (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/butterfree.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/butterfree.png"
         },
         {
             "number": "12",
             "name": "Butterfree (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/butterfree-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/butterfree-f.png"
         },
         {
             "number": "13",
             "name": "Weedle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/weedle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/weedle.png"
         },
         {
             "number": "14",
             "name": "Kakuna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kakuna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kakuna.png"
         },
         {
             "number": "15",
             "name": "Beedrill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beedrill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beedrill.png"
         },
         {
             "number": "16",
             "name": "Pidgey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pidgey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pidgey.png"
         },
         {
             "number": "17",
             "name": "Pidgeotto",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pidgeotto.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pidgeotto.png"
         },
         {
             "number": "18",
             "name": "Pidgeot",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pidgeot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pidgeot.png"
         },
         {
             "number": "19",
             "name": "Rattata (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rattata.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rattata.png"
         },
         {
             "number": "19",
             "name": "Rattata (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rattata-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rattata-f.png"
         },
         {
             "number": "20",
             "name": "Raticate (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raticate.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raticate.png"
         },
         {
             "number": "20",
             "name": "Raticate (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raticate-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raticate-f.png"
         },
         {
             "number": "21",
             "name": "Spearow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spearow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spearow.png"
         },
         {
             "number": "22",
             "name": "Fearow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fearow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fearow.png"
         },
         {
             "number": "23",
             "name": "Ekans",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ekans.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ekans.png"
         },
         {
             "number": "24",
             "name": "Arbok",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arbok.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arbok.png"
         },
         {
             "number": "25",
             "name": "Pikachu (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pikachu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pikachu.png"
         },
         {
             "number": "25",
             "name": "Pikachu (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pikachu-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pikachu-f.png"
         }
     ],
     "2": [
         {
             "number": "26",
             "name": "Raichu (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raichu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raichu.png"
         },
         {
             "number": "26",
             "name": "Raichu (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raichu-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raichu-f.png"
         },
         {
             "number": "27",
             "name": "Sandshrew",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandshrew.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandshrew.png"
         },
         {
             "number": "28",
             "name": "Sandslash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandslash.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandslash.png"
         },
         {
             "number": "29",
             "name": "Nidoran\u2640",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidoran-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidoran-f.png"
         },
         {
             "number": "30",
             "name": "Nidorina",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidorina.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidorina.png"
         },
         {
             "number": "31",
             "name": "Nidoqueen",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidoqueen.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidoqueen.png"
         },
         {
             "number": "32",
             "name": "Nidoran\u2642",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidoran-male.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidoran-m.png"
         },
         {
             "number": "33",
             "name": "Nidorino",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidorino.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidorino.png"
         },
         {
             "number": "34",
             "name": "Nidoking",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nidoking.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nidoking.png"
         },
         {
             "number": "35",
             "name": "Clefairy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clefairy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clefairy.png"
         },
         {
             "number": "36",
             "name": "Clefable",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clefable.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clefable.png"
         },
         {
             "number": "37",
             "name": "Vulpix",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vulpix.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vulpix.png"
         },
         {
             "number": "38",
             "name": "Ninetales",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ninetales.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ninetales.png"
         },
         {
             "number": "39",
             "name": "Jigglypuff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jigglypuff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png"
         },
         {
             "number": "40",
             "name": "Wigglytuff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wigglytuff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wigglytuff.png"
         },
         {
             "number": "41",
             "name": "Zubat (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zubat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zubat.png"
         },
         {
             "number": "41",
             "name": "Zubat (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zubat-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zubat-f.png"
         },
         {
             "number": "42",
             "name": "Golbat (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golbat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golbat.png"
         },
         {
             "number": "42",
             "name": "Golbat (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golbat-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golbat-f.png"
         },
         {
             "number": "43",
             "name": "Oddish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oddish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/oddish.png"
         },
         {
             "number": "44",
             "name": "Gloom (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gloom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gloom.png"
         },
         {
             "number": "44",
             "name": "Gloom (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gloom-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gloom-f.png"
         },
         {
             "number": "45",
             "name": "Vileplume (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vileplume.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vileplume.png"
         },
         {
             "number": "45",
             "name": "Vileplume (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vileplume-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vileplume-f.png"
         },
         {
             "number": "46",
             "name": "Paras",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/paras.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/paras.png"
         },
         {
             "number": "47",
             "name": "Parasect",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/parasect.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/parasect.png"
         },
         {
             "number": "48",
             "name": "Venonat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venonat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/venonat.png"
         },
         {
             "number": "49",
             "name": "Venomoth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venomoth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/venomoth.png"
         },
         {
             "number": "50",
             "name": "Diglett",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/diglett.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/diglett.png"
         }
     ],
     "3": [
         {
             "number": "51",
             "name": "Dugtrio",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dugtrio.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dugtrio.png"
         },
         {
             "number": "52",
             "name": "Meowth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meowth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowth.png"
         },
         {
             "number": "53",
             "name": "Persian",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/persian.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/persian.png"
         },
         {
             "number": "54",
             "name": "Psyduck",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/psyduck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/psyduck.png"
         },
         {
             "number": "55",
             "name": "Golduck",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golduck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golduck.png"
         },
         {
             "number": "56",
             "name": "Mankey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mankey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mankey.png"
         },
         {
             "number": "57",
             "name": "Primeape",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/primeape.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/primeape.png"
         },
         {
             "number": "58",
             "name": "Growlithe",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/growlithe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/growlithe.png"
         },
         {
             "number": "59",
             "name": "Arcanine",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arcanine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arcanine.png"
         },
         {
             "number": "60",
             "name": "Poliwag",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/poliwag.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/poliwag.png"
         },
         {
             "number": "61",
             "name": "Poliwhirl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/poliwhirl.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/poliwhirl.png"
         },
         {
             "number": "62",
             "name": "Poliwrath",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/poliwrath.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/poliwrath.png"
         },
         {
             "number": "63",
             "name": "Abra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/abra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/abra.png"
         },
         {
             "number": "64",
             "name": "Kadabra (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kadabra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kadabra.png"
         },
         {
             "number": "64",
             "name": "Kadabra (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kadabra-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kadabra-f.png"
         },
         {
             "number": "65",
             "name": "Alakazam (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alakazam.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alakazam.png"
         },
         {
             "number": "65",
             "name": "Alakazam (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alakazam-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alakazam-f.png"
         },
         {
             "number": "66",
             "name": "Machop",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/machop.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/machop.png"
         },
         {
             "number": "67",
             "name": "Machoke",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/machoke.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/machoke.png"
         },
         {
             "number": "68",
             "name": "Machamp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/machamp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/machamp.png"
         },
         {
             "number": "69",
             "name": "Bellsprout",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bellsprout.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bellsprout.png"
         },
         {
             "number": "70",
             "name": "Weepinbell",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/weepinbell.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/weepinbell.png"
         },
         {
             "number": "71",
             "name": "Victreebel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/victreebel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/victreebel.png"
         },
         {
             "number": "72",
             "name": "Tentacool",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tentacool.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tentacool.png"
         },
         {
             "number": "73",
             "name": "Tentacruel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tentacruel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tentacruel.png"
         },
         {
             "number": "74",
             "name": "Geodude",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/geodude.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/geodude.png"
         },
         {
             "number": "75",
             "name": "Graveler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/graveler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/graveler.png"
         },
         {
             "number": "76",
             "name": "Golem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golem.png"
         },
         {
             "number": "77",
             "name": "Ponyta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ponyta.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ponyta.png"
         },
         {
             "number": "78",
             "name": "Rapidash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rapidash.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rapidash.png"
         }
     ],
     "4": [
         {
             "number": "79",
             "name": "Slowpoke",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slowpoke.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowpoke.png"
         },
         {
             "number": "80",
             "name": "Slowbro",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slowbro.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowbro.png"
         },
         {
             "number": "81",
             "name": "Magnemite",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magnemite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magnemite.png"
         },
         {
             "number": "82",
             "name": "Magneton",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magneton.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magneton.png"
         },
         {
             "number": "83",
             "name": "Farfetch'd",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/farfetchd.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/farfetchd.png"
         },
         {
             "number": "84",
             "name": "Doduo (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/doduo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/doduo.png"
         },
         {
             "number": "84",
             "name": "Doduo (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/doduo-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/doduo-f.png"
         },
         {
             "number": "85",
             "name": "Dodrio (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dodrio.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dodrio.png"
         },
         {
             "number": "85",
             "name": "Dodrio (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dodrio-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dodrio-f.png"
         },
         {
             "number": "86",
             "name": "Seel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seel.png"
         },
         {
             "number": "87",
             "name": "Dewgong",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dewgong.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dewgong.png"
         },
         {
             "number": "88",
             "name": "Grimer",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grimer.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grimer.png"
         },
         {
             "number": "89",
             "name": "Muk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/muk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/muk.png"
         },
         {
             "number": "90",
             "name": "Shellder",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shellder.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shellder.png"
         },
         {
             "number": "91",
             "name": "Cloyster",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cloyster.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cloyster.png"
         },
         {
             "number": "92",
             "name": "Gastly",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gastly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gastly.png"
         },
         {
             "number": "93",
             "name": "Haunter",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/haunter.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/haunter.png"
         },
         {
             "number": "94",
             "name": "Gengar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gengar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gengar.png"
         },
         {
             "number": "95",
             "name": "Onix",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/onix.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/onix.png"
         },
         {
             "number": "96",
             "name": "Drowzee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drowzee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drowzee.png"
         },
         {
             "number": "97",
             "name": "Hypno (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hypno.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hypno.png"
         },
         {
             "number": "97",
             "name": "Hypno (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hypno-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hypno-f.png"
         },
         {
             "number": "98",
             "name": "Krabby",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/krabby.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/krabby.png"
         },
         {
             "number": "99",
             "name": "Kingler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kingler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kingler.png"
         },
         {
             "number": "100",
             "name": "Voltorb",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/voltorb.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/voltorb.png"
         },
         {
             "number": "101",
             "name": "Electrode",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/electrode.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/electrode.png"
         },
         {
             "number": "102",
             "name": "Exeggcute",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/exeggcute.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/exeggcute.png"
         },
         {
             "number": "103",
             "name": "Exeggutor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/exeggutor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/exeggutor.png"
         },
         {
             "number": "104",
             "name": "Cubone",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cubone.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cubone.png"
         },
         {
             "number": "105",
             "name": "Marowak",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/marowak.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/marowak.png"
         }
     ],
     "5": [
         {
             "number": "106",
             "name": "Hitmonlee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hitmonlee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hitmonlee.png"
         },
         {
             "number": "107",
             "name": "Hitmonchan",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hitmonchan.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hitmonchan.png"
         },
         {
             "number": "108",
             "name": "Lickitung",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lickitung.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lickitung.png"
         },
         {
             "number": "109",
             "name": "Koffing",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/koffing.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/koffing.png"
         },
         {
             "number": "110",
             "name": "Weezing",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/weezing.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/weezing.png"
         },
         {
             "number": "111",
             "name": "Rhyhorn (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhyhorn.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhyhorn.png"
         },
         {
             "number": "111",
             "name": "Rhyhorn (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhyhorn-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhyhorn-f.png"
         },
         {
             "number": "112",
             "name": "Rhydon (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhydon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhydon.png"
         },
         {
             "number": "112",
             "name": "Rhydon (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhydon-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhydon-f.png"
         },
         {
             "number": "113",
             "name": "Chansey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chansey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chansey.png"
         },
         {
             "number": "114",
             "name": "Tangela",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tangela.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tangela.png"
         },
         {
             "number": "115",
             "name": "Kangaskhan",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kangaskhan.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kangaskhan.png"
         },
         {
             "number": "116",
             "name": "Horsea",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/horsea.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/horsea.png"
         },
         {
             "number": "117",
             "name": "Seadra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seadra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seadra.png"
         },
         {
             "number": "118",
             "name": "Goldeen (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/goldeen.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/goldeen.png"
         },
         {
             "number": "118",
             "name": "Goldeen (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/goldeen-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/goldeen-f.png"
         },
         {
             "number": "119",
             "name": "Seaking (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seaking.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seaking.png"
         },
         {
             "number": "119",
             "name": "Seaking (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seaking-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seaking-f.png"
         },
         {
             "number": "120",
             "name": "Staryu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/staryu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/staryu.png"
         },
         {
             "number": "121",
             "name": "Starmie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/starmie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/starmie.png"
         },
         {
             "number": "122",
             "name": "Mr. Mime",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mr-mime.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mr-mime.png"
         },
         {
             "number": "123",
             "name": "Scyther (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scyther.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scyther.png"
         },
         {
             "number": "123",
             "name": "Scyther (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scyther-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scyther-f.png"
         },
         {
             "number": "124",
             "name": "Jynx",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jynx.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jynx.png"
         },
         {
             "number": "125",
             "name": "Electabuzz",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/electabuzz.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/electabuzz.png"
         },
         {
             "number": "126",
             "name": "Magmar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magmar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magmar.png"
         },
         {
             "number": "127",
             "name": "Pinsir",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pinsir.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pinsir.png"
         },
         {
             "number": "128",
             "name": "Tauros",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tauros.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tauros.png"
         },
         {
             "number": "129",
             "name": "Magikarp (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magikarp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magikarp.png"
         },
         {
             "number": "129",
             "name": "Magikarp (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magikarp-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magikarp-f.png"
         }
     ],
     "6": [
         {
             "number": "130",
             "name": "Gyarados (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gyarados.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gyarados.png"
         },
         {
             "number": "130",
             "name": "Gyarados (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gyarados-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gyarados-f.png"
         },
         {
             "number": "131",
             "name": "Lapras",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lapras.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lapras.png"
         },
         {
             "number": "132",
             "name": "Ditto",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ditto.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ditto.png"
         },
         {
             "number": "133",
             "name": "Eevee (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eevee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eevee.png"
         },
         {
             "number": "133",
             "name": "Eevee (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eevee-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eevee-f.png"
         },
         {
             "number": "134",
             "name": "Vaporeon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vaporeon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vaporeon.png"
         },
         {
             "number": "135",
             "name": "Jolteon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jolteon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jolteon.png"
         },
         {
             "number": "136",
             "name": "Flareon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flareon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flareon.png"
         },
         {
             "number": "137",
             "name": "Porygon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/porygon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/porygon.png"
         },
         {
             "number": "138",
             "name": "Omanyte",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/omanyte.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/omanyte.png"
         },
         {
             "number": "139",
             "name": "Omastar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/omastar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/omastar.png"
         },
         {
             "number": "140",
             "name": "Kabuto",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kabuto.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kabuto.png"
         },
         {
             "number": "141",
             "name": "Kabutops",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kabutops.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kabutops.png"
         },
         {
             "number": "142",
             "name": "Aerodactyl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aerodactyl.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aerodactyl.png"
         },
         {
             "number": "143",
             "name": "Snorlax",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snorlax.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snorlax.png"
         },
         {
             "number": "144",
             "name": "Articuno",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/articuno.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/articuno.png"
         },
         {
             "number": "145",
             "name": "Zapdos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zapdos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zapdos.png"
         },
         {
             "number": "146",
             "name": "Moltres",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/moltres.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/moltres.png"
         },
         {
             "number": "147",
             "name": "Dratini",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dratini.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dratini.png"
         },
         {
             "number": "148",
             "name": "Dragonair",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dragonair.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dragonair.png"
         },
         {
             "number": "149",
             "name": "Dragonite",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dragonite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dragonite.png"
         },
         {
             "number": "150",
             "name": "Mewtwo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mewtwo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mewtwo.png"
         },
         {
             "number": "151",
             "name": "Mew",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mew.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mew.png"
         },
         {
             "number": "152",
             "name": "Chikorita",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chikorita.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chikorita.png"
         },
         {
             "number": "153",
             "name": "Bayleef",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bayleef.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bayleef.png"
         },
         {
             "number": "154",
             "name": "Meganium (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meganium.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meganium.png"
         },
         {
             "number": "154",
             "name": "Meganium (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meganium-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meganium-f.png"
         },
         {
             "number": "155",
             "name": "Cyndaquil",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cyndaquil.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cyndaquil.png"
         },
         {
             "number": "156",
             "name": "Quilava",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/quilava.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/quilava.png"
         }
     ],
     "7": [
         {
             "number": "157",
             "name": "Typhlosion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/typhlosion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/typhlosion.png"
         },
         {
             "number": "158",
             "name": "Totodile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/totodile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/totodile.png"
         },
         {
             "number": "159",
             "name": "Croconaw",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/croconaw.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/croconaw.png"
         },
         {
             "number": "160",
             "name": "Feraligatr",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/feraligatr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/feraligatr.png"
         },
         {
             "number": "161",
             "name": "Sentret",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sentret.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sentret.png"
         },
         {
             "number": "162",
             "name": "Furret",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/furret.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/furret.png"
         },
         {
             "number": "163",
             "name": "Hoothoot",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hoothoot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hoothoot.png"
         },
         {
             "number": "164",
             "name": "Noctowl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/noctowl.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/noctowl.png"
         },
         {
             "number": "165",
             "name": "Ledyba (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ledyba.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ledyba.png"
         },
         {
             "number": "165",
             "name": "Ledyba (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ledyba-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ledyba-f.png"
         },
         {
             "number": "166",
             "name": "Ledian (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ledian.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ledian.png"
         },
         {
             "number": "166",
             "name": "Ledian (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ledian-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ledian-f.png"
         },
         {
             "number": "167",
             "name": "Spinarak",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spinarak.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spinarak.png"
         },
         {
             "number": "168",
             "name": "Ariados",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ariados.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ariados.png"
         },
         {
             "number": "169",
             "name": "Crobat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/crobat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/crobat.png"
         },
         {
             "number": "170",
             "name": "Chinchou",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chinchou.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chinchou.png"
         },
         {
             "number": "171",
             "name": "Lanturn",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lanturn.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lanturn.png"
         },
         {
             "number": "172",
             "name": "Pichu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pichu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pichu.png"
         },
         {
             "number": "173",
             "name": "Cleffa",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cleffa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cleffa.png"
         },
         {
             "number": "174",
             "name": "Igglybuff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/igglybuff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/igglybuff.png"
         },
         {
             "number": "175",
             "name": "Togepi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/togepi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/togepi.png"
         },
         {
             "number": "176",
             "name": "Togetic",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/togetic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/togetic.png"
         },
         {
             "number": "177",
             "name": "Natu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/natu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/natu.png"
         },
         {
             "number": "178",
             "name": "Xatu (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/xatu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/xatu.png"
         },
         {
             "number": "178",
             "name": "Xatu (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/xatu-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/xatu-f.png"
         },
         {
             "number": "179",
             "name": "Mareep",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mareep.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mareep.png"
         },
         {
             "number": "180",
             "name": "Flaaffy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flaaffy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flaaffy.png"
         },
         {
             "number": "181",
             "name": "Ampharos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ampharos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ampharos.png"
         },
         {
             "number": "182",
             "name": "Bellossom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bellossom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bellossom.png"
         },
         {
             "number": "183",
             "name": "Marill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/marill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/marill.png"
         }
     ],
     "8": [
         {
             "number": "184",
             "name": "Azumarill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/azumarill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/azumarill.png"
         },
         {
             "number": "185",
             "name": "Sudowoodo (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sudowoodo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sudowoodo.png"
         },
         {
             "number": "185",
             "name": "Sudowoodo (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sudowoodo-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sudowoodo-f.png"
         },
         {
             "number": "186",
             "name": "Politoed (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/politoed.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/politoed.png"
         },
         {
             "number": "186",
             "name": "Politoed (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/politoed-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/politoed-f.png"
         },
         {
             "number": "187",
             "name": "Hoppip",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hoppip.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hoppip.png"
         },
         {
             "number": "188",
             "name": "Skiploom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skiploom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skiploom.png"
         },
         {
             "number": "189",
             "name": "Jumpluff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jumpluff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jumpluff.png"
         },
         {
             "number": "190",
             "name": "Aipom (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aipom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aipom.png"
         },
         {
             "number": "190",
             "name": "Aipom (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aipom-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aipom-f.png"
         },
         {
             "number": "191",
             "name": "Sunkern",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sunkern.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sunkern.png"
         },
         {
             "number": "192",
             "name": "Sunflora",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sunflora.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sunflora.png"
         },
         {
             "number": "193",
             "name": "Yanma",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yanma.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yanma.png"
         },
         {
             "number": "194",
             "name": "Wooper (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wooper.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wooper.png"
         },
         {
             "number": "195",
             "name": "Wooper (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wooper-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wooper-f.png"
         },
         {
             "number": "195",
             "name": "Quagsire (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/quagsire.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/quagsire.png"
         },
         {
             "number": "195",
             "name": "Quagsire (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/quagsire-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/quagsire-f.png"
         },
         {
             "number": "196",
             "name": "Espeon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/espeon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/espeon.png"
         },
         {
             "number": "197",
             "name": "Umbreon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/umbreon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/umbreon.png"
         },
         {
             "number": "198",
             "name": "Murkrow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/murkrow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/murkrow.png"
         },
         {
             "number": "199",
             "name": "Slowking",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slowking.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowking.png"
         },
         {
             "number": "200",
             "name": "Misdreavus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/misdreavus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/misdreavus.png"
         },
         {
             "number": "201",
             "name": "Unown (A)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-a.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-a.png"
         },
         {
             "number": "201",
             "name": "Unown (B)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-b.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-b.png"
         },
         {
             "number": "201",
             "name": "Unown (C)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-c.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-c.png"
         },
         {
             "number": "201",
             "name": "Unown (D)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-d.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-d.png"
         },
         {
             "number": "201",
             "name": "Unown (E)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-e.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-e.png"
         },
         {
             "number": "201",
             "name": "Unown (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-f.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-f.png"
         },
         {
             "number": "201",
             "name": "Unown (G)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-g.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-g.png"
         },
         {
             "number": "201",
             "name": "Unown (H)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-h.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-h.png"
         }
     ],
     "9": [
         {
             "number": "201",
             "name": "Unown (I)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-i.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-i.png"
         },
         {
             "number": "201",
             "name": "Unown (J)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-j.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-j.png"
         },
         {
             "number": "201",
             "name": "Unown (K)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-k.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-k.png"
         },
         {
             "number": "201",
             "name": "Unown (L)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-l.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-l.png"
         },
         {
             "number": "201",
             "name": "Unown (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-m.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-m.png"
         },
         {
             "number": "201",
             "name": "Unown (N)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-n.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-n.png"
         },
         {
             "number": "201",
             "name": "Unown (O)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-o.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-o.png"
         },
         {
             "number": "201",
             "name": "Unown (P)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-p.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-p.png"
         },
         {
             "number": "201",
             "name": "Unown (Q)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-q.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-q.png"
         },
         {
             "number": "201",
             "name": "Unown (R)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-r.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-r.png"
         },
         {
             "number": "201",
             "name": "Unown (S)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-s.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-s.png"
         },
         {
             "number": "201",
             "name": "Unown (T)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-t.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-t.png"
         },
         {
             "number": "201",
             "name": "Unown (U)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-u.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-u.png"
         },
         {
             "number": "201",
             "name": "Unown (V)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-v.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-v.png"
         },
         {
             "number": "201",
             "name": "Unown (W)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-w.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-w.png"
         },
         {
             "number": "201",
             "name": "Unown (X)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-x.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-x.png"
         },
         {
             "number": "201",
             "name": "Unown (Y)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-y.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-y.png"
         },
         {
             "number": "201",
             "name": "Unown (Z)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-z.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-z.png"
         },
         {
             "number": "201",
             "name": "Unown (!)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-exclaim.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-em.png"
         },
         {
             "number": "201",
             "name": "Unown (?)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unown-question.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unown-qm.png"
         },
         {
             "number": "202",
             "name": "Wobbuffet (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wobbuffet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wobbuffet.png"
         },
         {
             "number": "202",
             "name": "Wobbuffet (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wobbuffet-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wobbuffet-f.png"
         },
         {
             "number": "203",
             "name": "Girafarig (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/girafarig.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/girafarig.png"
         },
         {
             "number": "203",
             "name": "Girafarig (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/girafarig-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/girafarig-f.png"
         },
         {
             "number": "204",
             "name": "Pineco",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pineco.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pineco.png"
         },
         {
             "number": "205",
             "name": "Forretress",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/forretress.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/forretress.png"
         },
         {
             "number": "206",
             "name": "Dunsparce",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dunsparce.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dunsparce.png"
         },
         {
             "number": "207",
             "name": "Gligar (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gligar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gligar.png"
         },
         {
             "number": "207",
             "name": "Gligar (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gligar-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gligar-f.png"
         },
         {
             "number": "208",
             "name": "Steelix (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/steelix.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/steelix.png"
         }
     ],
     "10": [
         {
             "number": "208",
             "name": "Steelix (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/steelix-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/steelix-f.png"
         },
         {
             "number": "209",
             "name": "Snubbull",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snubbull.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snubbull.png"
         },
         {
             "number": "210",
             "name": "Granbull",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/granbull.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/granbull.png"
         },
         {
             "number": "211",
             "name": "Qwilfish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/qwilfish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/qwilfish.png"
         },
         {
             "number": "212",
             "name": "Scizor (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scizor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scizor.png"
         },
         {
             "number": "212",
             "name": "Scizor (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scizor-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scizor-f.png"
         },
         {
             "number": "213",
             "name": "Shuckle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shuckle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shuckle.png"
         },
         {
             "number": "214",
             "name": "Heracross (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heracross.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/heracross.png"
         },
         {
             "number": "214",
             "name": "Heracross (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heracross-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/heracross-f.png"
         },
         {
             "number": "215",
             "name": "Sneasel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sneasel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sneasel.png"
         },
         {
             "number": "215",
             "name": "Sneasel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sneasel-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sneasel-f.png"
         },
         {
             "number": "216",
             "name": "Teddiursa",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/teddiursa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/teddiursa.png"
         },
         {
             "number": "217",
             "name": "Ursaring (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ursaring.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ursaring.png"
         },
         {
             "number": "217",
             "name": "Ursaring (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ursaring-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ursaring-f.png"
         },
         {
             "number": "218",
             "name": "Slugma",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slugma.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slugma.png"
         },
         {
             "number": "219",
             "name": "Magcargo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magcargo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magcargo.png"
         },
         {
             "number": "220",
             "name": "Swinub",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swinub.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swinub.png"
         },
         {
             "number": "221",
             "name": "Piloswine (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/piloswine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/piloswine.png"
         },
         {
             "number": "221",
             "name": "Piloswine (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/piloswine-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/piloswine-f.png"
         },
         {
             "number": "222",
             "name": "Corsola",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/corsola.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/corsola.png"
         },
         {
             "number": "223",
             "name": "Remoraid",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/remoraid.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/remoraid.png"
         },
         {
             "number": "224",
             "name": "Octillery (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/octillery.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/octillery.png"
         },
         {
             "number": "224",
             "name": "Octillery (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/octillery-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/octillery-f.png"
         },
         {
             "number": "225",
             "name": "Delibird",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/delibird.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/delibird.png"
         },
         {
             "number": "226",
             "name": "Mantine",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mantine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mantine.png"
         },
         {
             "number": "227",
             "name": "Skarmory",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skarmory.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skarmory.png"
         },
         {
             "number": "228",
             "name": "Houndour",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/houndour.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/houndour.png"
         },
         {
             "number": "229",
             "name": "Houndoom (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/houndoom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/houndoom.png"
         },
         {
             "number": "229",
             "name": "Houndoom (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/houndoom-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/houndoom-f.png"
         },
         {
             "number": "230",
             "name": "Kingdra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kingdra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kingdra.png"
         }
     ],
     "11": [
         {
             "number": "231",
             "name": "Phanpy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/phanpy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/phanpy.png"
         },
         {
             "number": "232",
             "name": "Donphan (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/donphan.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/donphan.png"
         },
         {
             "number": "232",
             "name": "Donphan (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/donphan-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/donphan-f.png"
         },
         {
             "number": "233",
             "name": "Porygon2",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/porygon2.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/porygon2.png"
         },
         {
             "number": "234",
             "name": "Stantler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stantler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stantler.png"
         },
         {
             "number": "235",
             "name": "Smeargle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/smeargle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/smeargle.png"
         },
         {
             "number": "236",
             "name": "Tyrogue",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tyrogue.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tyrogue.png"
         },
         {
             "number": "237",
             "name": "Hitmontop",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hitmontop.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hitmontop.png"
         },
         {
             "number": "238",
             "name": "Smoochum",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/smoochum.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/smoochum.png"
         },
         {
             "number": "239",
             "name": "Elekid",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/elekid.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/elekid.png"
         },
         {
             "number": "240",
             "name": "Magby",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magby.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magby.png"
         },
         {
             "number": "241",
             "name": "Miltank",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/miltank.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/miltank.png"
         },
         {
             "number": "242",
             "name": "Blissey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blissey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blissey.png"
         },
         {
             "number": "243",
             "name": "Raikou",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raikou.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raikou.png"
         },
         {
             "number": "244",
             "name": "Entei",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/entei.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/entei.png"
         },
         {
             "number": "245",
             "name": "Suicune",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/suicune.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/suicune.png"
         },
         {
             "number": "246",
             "name": "Larvitar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/larvitar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/larvitar.png"
         },
         {
             "number": "247",
             "name": "Pupitar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pupitar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pupitar.png"
         },
         {
             "number": "248",
             "name": "Tyranitar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tyranitar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tyranitar.png"
         },
         {
             "number": "249",
             "name": "Lugia",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lugia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lugia.png"
         },
         {
             "number": "250",
             "name": "Ho-Oh",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ho-oh.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ho-oh.png"
         },
         {
             "number": "251",
             "name": "Celebi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/celebi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/celebi.png"
         },
         {
             "number": "252",
             "name": "Treecko",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/treecko.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/treecko.png"
         },
         {
             "number": "253",
             "name": "Grovyle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grovyle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grovyle.png"
         },
         {
             "number": "254",
             "name": "Sceptile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sceptile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sceptile.png"
         },
         {
             "number": "255",
             "name": "Torchic (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/torchic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/torchic.png"
         },
         {
             "number": "255",
             "name": "Torchic (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/torchic-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/torchic-f.png"
         },
         {
             "number": "256",
             "name": "Combusken (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/combusken.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/combusken.png"
         },
         {
             "number": "256",
             "name": "Combusken (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/combusken-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/combusken-f.png"
         },
         {
             "number": "257",
             "name": "Blaziken (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blaziken.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blaziken.png"
         }
     ],
     "12": [
         {
             "number": "257",
             "name": "Blaziken (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blaziken-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blaziken-f.png"
         },
         {
             "number": "258",
             "name": "Mudkip",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mudkip.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mudkip.png"
         },
         {
             "number": "259",
             "name": "Marshtomp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/marshtomp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/marshtomp.png"
         },
         {
             "number": "260",
             "name": "Swampert",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swampert.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swampert.png"
         },
         {
             "number": "261",
             "name": "Poochyena",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/poochyena.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/poochyena.png"
         },
         {
             "number": "262",
             "name": "Mightyena",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mightyena.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mightyena.png"
         },
         {
             "number": "263",
             "name": "Zigzagoon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zigzagoon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zigzagoon.png"
         },
         {
             "number": "264",
             "name": "Linoone",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/linoone.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/linoone.png"
         },
         {
             "number": "265",
             "name": "Wurmple",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wurmple.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wurmple.png"
         },
         {
             "number": "266",
             "name": "Silcoon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/silcoon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/silcoon.png"
         },
         {
             "number": "267",
             "name": "Beautifly (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beautifly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beautifly.png"
         },
         {
             "number": "267",
             "name": "Beautifly (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beautifly-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beautifly-f.png"
         },
         {
             "number": "268",
             "name": "Cascoon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cascoon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cascoon.png"
         },
         {
             "number": "269",
             "name": "Dustox (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dustox.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dustox.png"
         },
         {
             "number": "269",
             "name": "Dustox (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dustox-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dustox-f.png"
         },
         {
             "number": "270",
             "name": "Lotad",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lotad.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lotad.png"
         },
         {
             "number": "271",
             "name": "Lombre",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lombre.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lombre.png"
         },
         {
             "number": "272",
             "name": "Ludicolo (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ludicolo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ludicolo.png"
         },
         {
             "number": "272",
             "name": "Ludicolo (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ludicolo-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ludicolo-f.png"
         },
         {
             "number": "273",
             "name": "Seedot",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seedot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seedot.png"
         },
         {
             "number": "274",
             "name": "Nuzleaf (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nuzleaf.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nuzleaf.png"
         },
         {
             "number": "274",
             "name": "Nuzleaf (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nuzleaf-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nuzleaf-f.png"
         },
         {
             "number": "275",
             "name": "Shiftry (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shiftry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shiftry.png"
         },
         {
             "number": "275",
             "name": "Shiftry (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shiftry-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shiftry-f.png"
         },
         {
             "number": "276",
             "name": "Taillow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/taillow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/taillow.png"
         },
         {
             "number": "277",
             "name": "Swellow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swellow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swellow.png"
         },
         {
             "number": "278",
             "name": "Wingull",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wingull.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wingull.png"
         },
         {
             "number": "279",
             "name": "Pelipper",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pelipper.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pelipper.png"
         },
         {
             "number": "280",
             "name": "Ralts",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ralts.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ralts.png"
         },
         {
             "number": "281",
             "name": "Kirlia",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kirlia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kirlia.png"
         }
     ],
     "13": [
         {
             "number": "282",
             "name": "Gardevoir",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gardevoir.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gardevoir.png"
         },
         {
             "number": "283",
             "name": "Surskit",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/surskit.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/surskit.png"
         },
         {
             "number": "284",
             "name": "Masquerain",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/masquerain.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/masquerain.png"
         },
         {
             "number": "285",
             "name": "Shroomish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shroomish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shroomish.png"
         },
         {
             "number": "286",
             "name": "Breloom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/breloom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/breloom.png"
         },
         {
             "number": "287",
             "name": "Slakoth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slakoth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slakoth.png"
         },
         {
             "number": "288",
             "name": "Vigoroth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vigoroth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vigoroth.png"
         },
         {
             "number": "289",
             "name": "Slaking",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slaking.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slaking.png"
         },
         {
             "number": "290",
             "name": "Nincada",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nincada.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nincada.png"
         },
         {
             "number": "291",
             "name": "Ninjask",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ninjask.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ninjask.png"
         },
         {
             "number": "292",
             "name": "Shedinja",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shedinja.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shedinja.png"
         },
         {
             "number": "293",
             "name": "Whismur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/whismur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/whismur.png"
         },
         {
             "number": "294",
             "name": "Loudred",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/loudred.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/loudred.png"
         },
         {
             "number": "295",
             "name": "Exploud",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/exploud.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/exploud.png"
         },
         {
             "number": "296",
             "name": "Makuhita",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/makuhita.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/makuhita.png"
         },
         {
             "number": "297",
             "name": "Hariyama",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hariyama.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hariyama.png"
         },
         {
             "number": "298",
             "name": "Azurill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/azurill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/azurill.png"
         },
         {
             "number": "299",
             "name": "Nosepass",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nosepass.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nosepass.png"
         },
         {
             "number": "300",
             "name": "Skitty",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skitty.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skitty.png"
         },
         {
             "number": "301",
             "name": "Delcatty",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/delcatty.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/delcatty.png"
         },
         {
             "number": "302",
             "name": "Sableye",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sableye.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sableye.png"
         },
         {
             "number": "303",
             "name": "Mawile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mawile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mawile.png"
         },
         {
             "number": "304",
             "name": "Aron",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aron.png"
         },
         {
             "number": "305",
             "name": "Lairon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lairon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lairon.png"
         },
         {
             "number": "306",
             "name": "Aggron",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aggron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aggron.png"
         },
         {
             "number": "307",
             "name": "Meditite (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meditite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meditite.png"
         },
         {
             "number": "307",
             "name": "Meditite (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meditite-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meditite-f.png"
         },
         {
             "number": "308",
             "name": "Medicham (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/medicham.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/medicham.png"
         },
         {
             "number": "308",
             "name": "Medicham (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/medicham-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/medicham-f.png"
         },
         {
             "number": "309",
             "name": "Electrike",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/electrike.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/electrike.png"
         }
     ],
     "14": [
         {
             "number": "310",
             "name": "Manectric",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/manectric.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/manectric.png"
         },
         {
             "number": "311",
             "name": "Plusle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/plusle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/plusle.png"
         },
         {
             "number": "312",
             "name": "Minun",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minun.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minun.png"
         },
         {
             "number": "313",
             "name": "Volbeat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/volbeat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/volbeat.png"
         },
         {
             "number": "314",
             "name": "Illumise",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/illumise.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/illumise.png"
         },
         {
             "number": "315",
             "name": "Roselia (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/roselia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/roselia.png"
         },
         {
             "number": "315",
             "name": "Roselia (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/roselia-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/roselia-f.png"
         },
         {
             "number": "316",
             "name": "Gulpin (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gulpin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gulpin.png"
         },
         {
             "number": "316",
             "name": "Gulpin (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gulpin-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gulpin-f.png"
         },
         {
             "number": "317",
             "name": "Swalot (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swalot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swalot.png"
         },
         {
             "number": "317",
             "name": "Swalot (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swalot-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swalot-f.png"
         },
         {
             "number": "318",
             "name": "Carvanha",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/carvanha.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/carvanha.png"
         },
         {
             "number": "319",
             "name": "Sharpedo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sharpedo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sharpedo.png"
         },
         {
             "number": "320",
             "name": "Wailmer",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wailmer.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wailmer.png"
         },
         {
             "number": "321",
             "name": "Wailord",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wailord.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wailord.png"
         },
         {
             "number": "322",
             "name": "Numel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/numel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/numel.png"
         },
         {
             "number": "322",
             "name": "Numel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/numel-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/numel-f.png"
         },
         {
             "number": "323",
             "name": "Camerupt (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/camerupt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/camerupt.png"
         },
         {
             "number": "323",
             "name": "Camerupt (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/camerupt-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/camerupt-f.png"
         },
         {
             "number": "324",
             "name": "Torkoal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/torkoal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/torkoal.png"
         },
         {
             "number": "325",
             "name": "Spoink",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spoink.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spoink.png"
         },
         {
             "number": "326",
             "name": "Grumpig",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grumpig.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grumpig.png"
         },
         {
             "number": "327",
             "name": "Spinda",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spinda.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spinda.png"
         },
         {
             "number": "328",
             "name": "Trapinch",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trapinch.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/trapinch.png"
         },
         {
             "number": "329",
             "name": "Vibrava",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vibrava.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vibrava.png"
         },
         {
             "number": "330",
             "name": "Flygon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flygon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flygon.png"
         },
         {
             "number": "331",
             "name": "Cacnea",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cacnea.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cacnea.png"
         },
         {
             "number": "332",
             "name": "Cacturne (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cacturne.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cacturne.png"
         },
         {
             "number": "332",
             "name": "Cacturne (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cacturne-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cacturne-f.png"
         },
         {
             "number": "333",
             "name": "Swablu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swablu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swablu.png"
         }
     ],
     "15": [
         {
             "number": "334",
             "name": "Altaria",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/altaria.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/altaria.png"
         },
         {
             "number": "335",
             "name": "Zangoose",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zangoose.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zangoose.png"
         },
         {
             "number": "336",
             "name": "Seviper",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seviper.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seviper.png"
         },
         {
             "number": "337",
             "name": "Lunatone",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lunatone.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lunatone.png"
         },
         {
             "number": "338",
             "name": "Solrock",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/solrock.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/solrock.png"
         },
         {
             "number": "339",
             "name": "Barboach",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/barboach.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/barboach.png"
         },
         {
             "number": "340",
             "name": "Whiscash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/whiscash.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/whiscash.png"
         },
         {
             "number": "341",
             "name": "Corphish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/corphish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/corphish.png"
         },
         {
             "number": "342",
             "name": "Crawdaunt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/crawdaunt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/crawdaunt.png"
         },
         {
             "number": "343",
             "name": "Baltoy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/baltoy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/baltoy.png"
         },
         {
             "number": "344",
             "name": "Claydol",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/claydol.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/claydol.png"
         },
         {
             "number": "345",
             "name": "Lileep",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lileep.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lileep.png"
         },
         {
             "number": "346",
             "name": "Cradily",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cradily.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cradily.png"
         },
         {
             "number": "347",
             "name": "Anorith",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/anorith.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/anorith.png"
         },
         {
             "number": "348",
             "name": "Armaldo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/armaldo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/armaldo.png"
         },
         {
             "number": "349",
             "name": "Feebas",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/feebas.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/feebas.png"
         },
         {
             "number": "350",
             "name": "Milotic (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milotic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/milotic.png"
         },
         {
             "number": "350",
             "name": "Milotic (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milotic-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/milotic-f.png"
         },
         {
             "number": "351",
             "name": "Castform",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/castform.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/castform.png"
         },
         {
             "number": "352",
             "name": "Kecleon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kecleon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kecleon.png"
         },
         {
             "number": "353",
             "name": "Shuppet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shuppet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shuppet.png"
         },
         {
             "number": "354",
             "name": "Banette",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/banette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/banette.png"
         },
         {
             "number": "355",
             "name": "Duskull",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/duskull.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/duskull.png"
         },
         {
             "number": "356",
             "name": "Dusclops",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dusclops.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dusclops.png"
         },
         {
             "number": "357",
             "name": "Tropius",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tropius.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tropius.png"
         },
         {
             "number": "358",
             "name": "Chimecho",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chimecho.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chimecho.png"
         },
         {
             "number": "359",
             "name": "Absol",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/absol.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/absol.png"
         },
         {
             "number": "360",
             "name": "Wynaut",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wynaut.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wynaut.png"
         },
         {
             "number": "361",
             "name": "Snorunt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snorunt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snorunt.png"
         },
         {
             "number": "362",
             "name": "Glalie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/glalie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/glalie.png"
         }
     ],
     "16": [
         {
             "number": "363",
             "name": "Spheal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spheal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spheal.png"
         },
         {
             "number": "364",
             "name": "Sealeo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sealeo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sealeo.png"
         },
         {
             "number": "365",
             "name": "Walrein",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/walrein.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/walrein.png"
         },
         {
             "number": "366",
             "name": "Clamperl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clamperl.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clamperl.png"
         },
         {
             "number": "367",
             "name": "Huntail",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/huntail.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/huntail.png"
         },
         {
             "number": "368",
             "name": "Gorebyss",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gorebyss.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gorebyss.png"
         },
         {
             "number": "369",
             "name": "Relicanth (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/relicanth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/relicanth.png"
         },
         {
             "number": "369",
             "name": "Relicanth (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/relicanth-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/relicanth-f.png"
         },
         {
             "number": "370",
             "name": "Luvdisc",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/luvdisc.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/luvdisc.png"
         },
         {
             "number": "371",
             "name": "Bagon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bagon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bagon.png"
         },
         {
             "number": "372",
             "name": "Shelgon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shelgon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shelgon.png"
         },
         {
             "number": "373",
             "name": "Salamence",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/salamence.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/salamence.png"
         },
         {
             "number": "374",
             "name": "Beldum",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beldum.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beldum.png"
         },
         {
             "number": "375",
             "name": "Metang",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/metang.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/metang.png"
         },
         {
             "number": "376",
             "name": "Metagross",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/metagross.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/metagross.png"
         },
         {
             "number": "377",
             "name": "Regirock",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/regirock.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/regirock.png"
         },
         {
             "number": "378",
             "name": "Regice",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/regice.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/regice.png"
         },
         {
             "number": "379",
             "name": "Registeel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/registeel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/registeel.png"
         },
         {
             "number": "380",
             "name": "Latias",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/latias.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/latias.png"
         },
         {
             "number": "381",
             "name": "Latios",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/latios.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/latios.png"
         },
         {
             "number": "382",
             "name": "Kyogre",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kyogre.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kyogre.png"
         },
         {
             "number": "383",
             "name": "Groudon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/groudon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/groudon.png"
         },
         {
             "number": "384",
             "name": "Rayquaza",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rayquaza.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rayquaza.png"
         },
         {
             "number": "385",
             "name": "Jirachi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jirachi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jirachi.png"
         },
         {
             "number": "386",
             "name": "Deoxys",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/deoxys.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deoxys.png"
         },
         {
             "number": "386",
             "name": "Deoxys (Attack)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/attack-deoxys.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deoxys-attack.png"
         },
         {
             "number": "386",
             "name": "Deoxys (Defense)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/defense-deoxys.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deoxys-defense.png"
         },
         {
             "number": "386",
             "name": "Deoxys (Speed)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/speed-deoxys.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deoxys-speed.png"
         },
         {
             "number": "387",
             "name": "Turtwig",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/turtwig.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/turtwig.png"
         },
         {
             "number": "388",
             "name": "Grotle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grotle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grotle.png"
         }
     ],
     "17": [
         {
             "number": "389",
             "name": "Torterra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/torterra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/torterra.png"
         },
         {
             "number": "390",
             "name": "Chimchar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chimchar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chimchar.png"
         },
         {
             "number": "391",
             "name": "Monferno",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/monferno.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/monferno.png"
         },
         {
             "number": "392",
             "name": "Infernape",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/infernape.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/infernape.png"
         },
         {
             "number": "393",
             "name": "Piplup",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/piplup.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/piplup.png"
         },
         {
             "number": "394",
             "name": "Prinplup",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/prinplup.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/prinplup.png"
         },
         {
             "number": "395",
             "name": "Empoleon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/empoleon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/empoleon.png"
         },
         {
             "number": "396",
             "name": "Starly (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/starly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/starly.png"
         },
         {
             "number": "396",
             "name": "Starly (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/starly-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/starly-f.png"
         },
         {
             "number": "397",
             "name": "Staravia (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/staravia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/staravia.png"
         },
         {
             "number": "397",
             "name": "Staravia (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/staravia-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/staravia-f.png"
         },
         {
             "number": "398",
             "name": "Staraptor (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/staraptor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/staraptor.png"
         },
         {
             "number": "398",
             "name": "Staraptor (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/staraptor-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/staraptor-f.png"
         },
         {
             "number": "399",
             "name": "Bidoof (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bidoof.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bidoof.png"
         },
         {
             "number": "399",
             "name": "Bidoof (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bidoof-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bidoof-f.png"
         },
         {
             "number": "400",
             "name": "Bibarel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bibarel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bibarel.png"
         },
         {
             "number": "400",
             "name": "Bibarel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bibarel-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bibarel-f.png"
         },
         {
             "number": "401",
             "name": "Kricketot (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kricketot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kricketot.png"
         },
         {
             "number": "401",
             "name": "Kricketot (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kricketot-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kricketot-f.png"
         },
         {
             "number": "402",
             "name": "Kricketune (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kricketune.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kricketune.png"
         },
         {
             "number": "402",
             "name": "Kricketune (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kricketune-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kricketune-f.png"
         },
         {
             "number": "403",
             "name": "Shinx (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shinx.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shinx.png"
         },
         {
             "number": "403",
             "name": "Shinx (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shinx-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shinx-f.png"
         },
         {
             "number": "404",
             "name": "Luxio (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/luxio.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/luxio.png"
         },
         {
             "number": "404",
             "name": "Luxio (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/luxio-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/luxio-f.png"
         },
         {
             "number": "405",
             "name": "Luxray (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/luxray.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/luxray.png"
         },
         {
             "number": "405",
             "name": "Luxray (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/luxray-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/luxray-f.png"
         },
         {
             "number": "406",
             "name": "Budew",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/budew.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/budew.png"
         },
         {
             "number": "407",
             "name": "Roserade (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/roserade.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/roserade.png"
         },
         {
             "number": "407",
             "name": "Roserade (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/roserade-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/roserade-f.png"
         }
     ],
     "18": [
         {
             "number": "408",
             "name": "Cranidos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cranidos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cranidos.png"
         },
         {
             "number": "409",
             "name": "Rampardos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rampardos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rampardos.png"
         },
         {
             "number": "410",
             "name": "Shieldon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shieldon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shieldon.png"
         },
         {
             "number": "411",
             "name": "Bastiodon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bastiodon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bastiodon.png"
         },
         {
             "number": "412",
             "name": "Burmy (Plant)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/burmy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/burmy.png"
         },
         {
             "number": "412",
             "name": "Burmy (Sandy)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandy-burmy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/burmy-sandy.png"
         },
         {
             "number": "412",
             "name": "Burmy (Trash)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trash-burmy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/burmy-trash.png"
         },
         {
             "number": "413",
             "name": "Wormadam (Plant)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wormadam.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wormadam.png"
         },
         {
             "number": "413",
             "name": "Wormadam (Sandy)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandy-wormadam.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wormadam-sandy.png"
         },
         {
             "number": "413",
             "name": "Wormadam (Trash)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trash-wormadam.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wormadam-trash.png"
         },
         {
             "number": "414",
             "name": "Mothim",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mothim.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mothim.png"
         },
         {
             "number": "415",
             "name": "Combee (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/combee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/combee.png"
         },
         {
             "number": "415",
             "name": "Combee (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/combee-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/combee-f.png"
         },
         {
             "number": "416",
             "name": "Vespiquen",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vespiquen.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vespiquen.png"
         },
         {
             "number": "417",
             "name": "Pachirisu (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pachirisu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pachirisu.png"
         },
         {
             "number": "417",
             "name": "Pachirisu (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pachirisu-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pachirisu-f.png"
         },
         {
             "number": "418",
             "name": "Buizel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/buizel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/buizel.png"
         },
         {
             "number": "418",
             "name": "Buizel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/buizel-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/buizel-f.png"
         },
         {
             "number": "419",
             "name": "Floatzel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/floatzel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floatzel.png"
         },
         {
             "number": "419",
             "name": "Floatzel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/floatzel-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floatzel-f.png"
         },
         {
             "number": "420",
             "name": "Cherubi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cherubi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cherubi.png"
         },
         {
             "number": "421",
             "name": "Cherrim",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cherrim.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cherrim.png"
         },
         {
             "number": "422",
             "name": "Shellos (West Sea)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shellos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shellos.png"
         },
         {
             "number": "422",
             "name": "Shellos (East Sea)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shellos-east.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shellos-east.png"
         },
         {
             "number": "423",
             "name": "Gastrodon (West Sea)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gastrodon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gastrodon.png"
         },
         {
             "number": "423",
             "name": "Gastrodon (East Sea)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gastrodon-east.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gastrodon-east.png"
         },
         {
             "number": "424",
             "name": "Ambipom (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ambipom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ambipom.png"
         },
         {
             "number": "424",
             "name": "Ambipom (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ambipom-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ambipom-f.png"
         },
         {
             "number": "425",
             "name": "Drifloon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drifloon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drifloon.png"
         },
         {
             "number": "426",
             "name": "Drifblim",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drifblim.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drifblim.png"
         }
     ],
     "19": [
         {
             "number": "427",
             "name": "Buneary",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/buneary.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/buneary.png"
         },
         {
             "number": "428",
             "name": "Lopunny",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lopunny.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lopunny.png"
         },
         {
             "number": "429",
             "name": "Mismagius",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mismagius.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mismagius.png"
         },
         {
             "number": "430",
             "name": "Honchkrow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/honchkrow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/honchkrow.png"
         },
         {
             "number": "431",
             "name": "Glameow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/glameow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/glameow.png"
         },
         {
             "number": "432",
             "name": "Purugly",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/purugly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/purugly.png"
         },
         {
             "number": "433",
             "name": "Chingling",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chingling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chingling.png"
         },
         {
             "number": "434",
             "name": "Stunky",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stunky.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stunky.png"
         },
         {
             "number": "435",
             "name": "Skuntank",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skuntank.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skuntank.png"
         },
         {
             "number": "436",
             "name": "Bronzor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bronzor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bronzor.png"
         },
         {
             "number": "437",
             "name": "Bronzong",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bronzong.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bronzong.png"
         },
         {
             "number": "438",
             "name": "Bonsly",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bonsly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bonsly.png"
         },
         {
             "number": "439",
             "name": "Mime Jr.",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mime-jr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mime-jr.png"
         },
         {
             "number": "440",
             "name": "Happiny",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/happiny.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/happiny.png"
         },
         {
             "number": "441",
             "name": "Chatot",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chatot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chatot.png"
         },
         {
             "number": "442",
             "name": "Spiritomb",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spiritomb.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spiritomb.png"
         },
         {
             "number": "443",
             "name": "Gible (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gible.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gible.png"
         },
         {
             "number": "443",
             "name": "Gible (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gible-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gible-f.png"
         },
         {
             "number": "444",
             "name": "Gabite (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gabite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gabite.png"
         },
         {
             "number": "444",
             "name": "Gabite (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gabite-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gabite-f.png"
         },
         {
             "number": "445",
             "name": "Garchomp (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/garchomp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/garchomp.png"
         },
         {
             "number": "445",
             "name": "Garchomp (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/garchomp-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/garchomp-f.png"
         },
         {
             "number": "446",
             "name": "Munchlax",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/munchlax.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/munchlax.png"
         },
         {
             "number": "447",
             "name": "Riolu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/riolu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/riolu.png"
         },
         {
             "number": "448",
             "name": "Lucario",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lucario.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lucario.png"
         },
         {
             "number": "449",
             "name": "Hippopotas (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hippopotas.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hippopotas.png"
         },
         {
             "number": "449",
             "name": "Hippopotas (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hippopotas-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hippopotas-f.png"
         },
         {
             "number": "450",
             "name": "Hippowdon (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hippowdon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hippowdon.png"
         },
         {
             "number": "450",
             "name": "Hippowdon (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hippowdon-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hippowdon-f.png"
         },
         {
             "number": "451",
             "name": "Skorupi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skorupi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skorupi.png"
         }
     ],
     "20": [
         {
             "number": "452",
             "name": "Drapion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drapion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drapion.png"
         },
         {
             "number": "453",
             "name": "Croagunk (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/croagunk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/croagunk.png"
         },
         {
             "number": "453",
             "name": "Croagunk (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/croagunk-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/croagunk-f.png"
         },
         {
             "number": "454",
             "name": "Toxicroak (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxicroak.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxicroak.png"
         },
         {
             "number": "454",
             "name": "Toxicroak (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxicroak-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxicroak-f.png"
         },
         {
             "number": "455",
             "name": "Carnivine",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/carnivine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/carnivine.png"
         },
         {
             "number": "456",
             "name": "Finneon (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/finneon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/finneon.png"
         },
         {
             "number": "456",
             "name": "Finneon (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/finneon-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/finneon-f.png"
         },
         {
             "number": "457",
             "name": "Lumineon (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lumineon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lumineon.png"
         },
         {
             "number": "457",
             "name": "Lumineon (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lumineon-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lumineon-f.png"
         },
         {
             "number": "458",
             "name": "Mantyke",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mantyke.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mantyke.png"
         },
         {
             "number": "459",
             "name": "Snover (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snover.png"
         },
         {
             "number": "459",
             "name": "Snover (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snover-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snover-f.png"
         },
         {
             "number": "460",
             "name": "Abomasnow (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/abomasnow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/abomasnow.png"
         },
         {
             "number": "460",
             "name": "Abomasnow (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/abomasnow-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/abomasnow-f.png"
         },
         {
             "number": "461",
             "name": "Weavile (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/weavile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/weavile.png"
         },
         {
             "number": "461",
             "name": "Weavile (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/weavile-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/weavile-f.png"
         },
         {
             "number": "462",
             "name": "Magnezone",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magnezone.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magnezone.png"
         },
         {
             "number": "463",
             "name": "Lickilicky",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lickilicky.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lickilicky.png"
         },
         {
             "number": "464",
             "name": "Rhyperior (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhyperior.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhyperior.png"
         },
         {
             "number": "464",
             "name": "Rhyperior (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rhyperior-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rhyperior-f.png"
         },
         {
             "number": "465",
             "name": "Tangrowth (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tangrowth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tangrowth.png"
         },
         {
             "number": "465",
             "name": "Tangrowth (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tangrowth-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tangrowth-f.png"
         },
         {
             "number": "466",
             "name": "Electivire",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/electivire.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/electivire.png"
         },
         {
             "number": "467",
             "name": "Magmortar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magmortar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magmortar.png"
         },
         {
             "number": "468",
             "name": "Togekiss",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/togekiss.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/togekiss.png"
         },
         {
             "number": "469",
             "name": "Yanmega",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yanmega.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yanmega.png"
         },
         {
             "number": "470",
             "name": "Leafeon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/leafeon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/leafeon.png"
         },
         {
             "number": "471",
             "name": "Glaceon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/glaceon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/glaceon.png"
         },
         {
             "number": "472",
             "name": "Gliscor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gliscor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gliscor.png"
         }
     ],
     "21": [
         {
             "number": "473",
             "name": "Mamoswine (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mamoswine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mamoswine.png"
         },
         {
             "number": "473",
             "name": "Mamoswine (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mamoswine-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mamoswine-f.png"
         },
         {
             "number": "474",
             "name": "Porygon-Z",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/porygon-z.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/porygon-z.png"
         },
         {
             "number": "475",
             "name": "Gallade",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gallade.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gallade.png"
         },
         {
             "number": "476",
             "name": "Probopass",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/probopass.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/probopass.png"
         },
         {
             "number": "477",
             "name": "Dusknoir",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dusknoir.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dusknoir.png"
         },
         {
             "number": "478",
             "name": "Froslass",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/froslass.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/froslass.png"
         },
         {
             "number": "479",
             "name": "Rotom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom.png"
         },
         {
             "number": "479",
             "name": "Rotom (Heat)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heat-rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom-heat.png"
         },
         {
             "number": "479",
             "name": "Rotom (Wash)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wash-rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom-wash.png"
         },
         {
             "number": "479",
             "name": "Rotom (Frost)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/frost-rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom-frost.png"
         },
         {
             "number": "479",
             "name": "Rotom (Fan)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fan-rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom-fan.png"
         },
         {
             "number": "479",
             "name": "Rotom (Mow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mow-rotom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rotom-mow.png"
         },
         {
             "number": "480",
             "name": "Uxie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/uxie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/uxie.png"
         },
         {
             "number": "481",
             "name": "Mesprit",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mesprit.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mesprit.png"
         },
         {
             "number": "482",
             "name": "Azelf",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/azelf.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/azelf.png"
         },
         {
             "number": "483",
             "name": "Dialga",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dialga.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dialga.png"
         },
         {
             "number": "484",
             "name": "Palkia",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/palkia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/palkia.png"
         },
         {
             "number": "485",
             "name": "Heatran",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heatran.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/heatran.png"
         },
         {
             "number": "486",
             "name": "Regigigas",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/regigigas.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/regigigas.png"
         },
         {
             "number": "487",
             "name": "Giratina",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/giratina.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/giratina.png"
         },
         {
             "number": "488",
             "name": "Cresselia",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cresselia.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cresselia.png"
         },
         {
             "number": "489",
             "name": "Phione",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/phione.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/phione.png"
         },
         {
             "number": "490",
             "name": "Manaphy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/manaphy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/manaphy.png"
         },
         {
             "number": "491",
             "name": "Darkrai",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/darkrai.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/darkrai.png"
         },
         {
             "number": "492",
             "name": "Shaymin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shaymin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shaymin.png"
         },
         {
             "number": "493",
             "name": "Arceus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arceus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arceus.png"
         },
         {
             "number": "494",
             "name": "Victini",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/victini.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/victini.png"
         },
         {
             "number": "495",
             "name": "Snivy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snivy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snivy.png"
         },
         {
             "number": "496",
             "name": "Servine",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/servine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/servine.png"
         }
     ],
     "22": [
         {
             "number": "497",
             "name": "Serperior",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/serperior.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/serperior.png"
         },
         {
             "number": "498",
             "name": "Tepig",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tepig.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tepig.png"
         },
         {
             "number": "499",
             "name": "Pignite",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pignite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pignite.png"
         },
         {
             "number": "500",
             "name": "Emboar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/emboar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/emboar.png"
         },
         {
             "number": "501",
             "name": "Oshawott",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oshawott.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/oshawott.png"
         },
         {
             "number": "502",
             "name": "Dewott",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dewott.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dewott.png"
         },
         {
             "number": "503",
             "name": "Samurott",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/samurott.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/samurott.png"
         },
         {
             "number": "504",
             "name": "Patrat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/patrat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/patrat.png"
         },
         {
             "number": "505",
             "name": "Watchog",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/watchog.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/watchog.png"
         },
         {
             "number": "506",
             "name": "Lillipup",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lillipup.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lillipup.png"
         },
         {
             "number": "507",
             "name": "Herdier",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/herdier.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/herdier.png"
         },
         {
             "number": "508",
             "name": "Stoutland",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stoutland.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stoutland.png"
         },
         {
             "number": "509",
             "name": "Purrloin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/purrloin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/purrloin.png"
         },
         {
             "number": "510",
             "name": "Liepard",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/liepard.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/liepard.png"
         },
         {
             "number": "511",
             "name": "Pansage",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pansage.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pansage.png"
         },
         {
             "number": "512",
             "name": "Simisage",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/simisage.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/simisage.png"
         },
         {
             "number": "513",
             "name": "Pansear",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pansear.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pansear.png"
         },
         {
             "number": "514",
             "name": "Simisear",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/simisear.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/simisear.png"
         },
         {
             "number": "515",
             "name": "Panpour",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/panpour.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/panpour.png"
         },
         {
             "number": "516",
             "name": "Simipour",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/simipour.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/simipour.png"
         },
         {
             "number": "517",
             "name": "Munna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/munna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/munna.png"
         },
         {
             "number": "518",
             "name": "Musharna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/musharna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/musharna.png"
         },
         {
             "number": "519",
             "name": "Pidove",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pidove.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pidove.png"
         },
         {
             "number": "520",
             "name": "Tranquill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tranquill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tranquill.png"
         },
         {
             "number": "521",
             "name": "Unfezant (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unfezant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unfezant.png"
         },
         {
             "number": "521",
             "name": "Unfezant (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/unfezant-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/unfezant-f.png"
         },
         {
             "number": "522",
             "name": "Blitzle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blitzle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blitzle.png"
         },
         {
             "number": "523",
             "name": "Zebstrika",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zebstrika.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zebstrika.png"
         },
         {
             "number": "524",
             "name": "Roggenrola",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/roggenrola.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/roggenrola.png"
         },
         {
             "number": "525",
             "name": "Boldore",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/boldore.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/boldore.png"
         }
     ],
     "23": [
         {
             "number": "526",
             "name": "Gigalith",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gigalith.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gigalith.png"
         },
         {
             "number": "527",
             "name": "Woobat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/woobat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/woobat.png"
         },
         {
             "number": "528",
             "name": "Swoobat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swoobat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swoobat.png"
         },
         {
             "number": "529",
             "name": "Drilbur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drilbur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drilbur.png"
         },
         {
             "number": "530",
             "name": "Excadrill",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/excadrill.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/excadrill.png"
         },
         {
             "number": "531",
             "name": "Audino",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/audino.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/audino.png"
         },
         {
             "number": "532",
             "name": "Timburr",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/timburr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/timburr.png"
         },
         {
             "number": "533",
             "name": "Gurdurr",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gurdurr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gurdurr.png"
         },
         {
             "number": "534",
             "name": "Conkeldurr",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/conkeldurr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/conkeldurr.png"
         },
         {
             "number": "535",
             "name": "Tympole",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tympole.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tympole.png"
         },
         {
             "number": "536",
             "name": "Palpitoad",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/palpitoad.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/palpitoad.png"
         },
         {
             "number": "537",
             "name": "Seismitoad",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/seismitoad.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/seismitoad.png"
         },
         {
             "number": "538",
             "name": "Throh",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/throh.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/throh.png"
         },
         {
             "number": "539",
             "name": "Sawk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sawk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sawk.png"
         },
         {
             "number": "540",
             "name": "Sewaddle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sewaddle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sewaddle.png"
         },
         {
             "number": "541",
             "name": "Swadloon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swadloon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swadloon.png"
         },
         {
             "number": "542",
             "name": "Leavanny",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/leavanny.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/leavanny.png"
         },
         {
             "number": "543",
             "name": "Venipede",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venipede.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/venipede.png"
         },
         {
             "number": "544",
             "name": "Whirlipede",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/whirlipede.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/whirlipede.png"
         },
         {
             "number": "545",
             "name": "Scolipede",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scolipede.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scolipede.png"
         },
         {
             "number": "546",
             "name": "Cottonee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cottonee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cottonee.png"
         },
         {
             "number": "547",
             "name": "Whimsicott",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/whimsicott.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/whimsicott.png"
         },
         {
             "number": "548",
             "name": "Petilil",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/petilil.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/petilil.png"
         },
         {
             "number": "549",
             "name": "Lilligant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lilligant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lilligant.png"
         },
         {
             "number": "550",
             "name": "Basculin (Red-Striped)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/basculin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/basculin.png"
         },
         {
             "number": "550",
             "name": "Basculin (Blue-Striped)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blue-basculin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/basculin-blue-striped.png"
         },
         {
             "number": "551",
             "name": "Sandile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandile.png"
         },
         {
             "number": "552",
             "name": "Krokorok",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/krokorok.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/krokorok.png"
         },
         {
             "number": "553",
             "name": "Krookodile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/krookodile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/krookodile.png"
         },
         {
             "number": "554",
             "name": "Darumaka",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/darumaka.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/darumaka.png"
         }
     ],
     "24": [
         {
             "number": "555",
             "name": "Darmanitan",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/darmanitan.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/darmanitan.png"
         },
         {
             "number": "556",
             "name": "Maractus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/maractus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/maractus.png"
         },
         {
             "number": "557",
             "name": "Dwebble",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dwebble.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dwebble.png"
         },
         {
             "number": "558",
             "name": "Crustle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/crustle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/crustle.png"
         },
         {
             "number": "559",
             "name": "Scraggy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scraggy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scraggy.png"
         },
         {
             "number": "560",
             "name": "Scrafty",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scrafty.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scrafty.png"
         },
         {
             "number": "561",
             "name": "Sigilyph",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sigilyph.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sigilyph.png"
         },
         {
             "number": "562",
             "name": "Yamask",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yamask.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yamask.png"
         },
         {
             "number": "563",
             "name": "Cofagrigus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cofagrigus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cofagrigus.png"
         },
         {
             "number": "564",
             "name": "Tirtouga",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tirtouga.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tirtouga.png"
         },
         {
             "number": "565",
             "name": "Carracosta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/carracosta.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/carracosta.png"
         },
         {
             "number": "566",
             "name": "Archen",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/archen.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/archen.png"
         },
         {
             "number": "567",
             "name": "Archeops",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/archeops.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/archeops.png"
         },
         {
             "number": "568",
             "name": "Trubbish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trubbish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/trubbish.png"
         },
         {
             "number": "569",
             "name": "Garbodor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/garbodor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/garbodor.png"
         },
         {
             "number": "570",
             "name": "Zorua",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zorua.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zorua.png"
         },
         {
             "number": "571",
             "name": "Zoroark",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zoroark.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zoroark.png"
         },
         {
             "number": "572",
             "name": "Minccino",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minccino.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minccino.png"
         },
         {
             "number": "573",
             "name": "Cinccino",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cinccino.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cinccino.png"
         },
         {
             "number": "574",
             "name": "Gothita",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gothita.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gothita.png"
         },
         {
             "number": "575",
             "name": "Gothorita",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gothorita.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gothorita.png"
         },
         {
             "number": "576",
             "name": "Gothitelle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gothitelle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gothitelle.png"
         },
         {
             "number": "577",
             "name": "Solosis",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/solosis.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/solosis.png"
         },
         {
             "number": "578",
             "name": "Duosion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/duosion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/duosion.png"
         },
         {
             "number": "579",
             "name": "Reuniclus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/reuniclus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/reuniclus.png"
         },
         {
             "number": "580",
             "name": "Ducklett",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ducklett.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ducklett.png"
         },
         {
             "number": "581",
             "name": "Swanna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swanna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swanna.png"
         },
         {
             "number": "582",
             "name": "Vanillite",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vanillite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vanillite.png"
         },
         {
             "number": "583",
             "name": "Vanillish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vanillish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vanillish.png"
         },
         {
             "number": "584",
             "name": "Vanilluxe",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vanilluxe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vanilluxe.png"
         }
     ],
     "25": [
         {
             "number": "585",
             "name": "Deerling (Spring)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/deerling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deerling.png"
         },
         {
             "number": "585",
             "name": "Deerling (Summer)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/summer-deerling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deerling-summer.png"
         },
         {
             "number": "585",
             "name": "Deerling (Autumn)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/autumn-deerling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deerling-autumn.png"
         },
         {
             "number": "585",
             "name": "Deerling (Winter)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/winter-deerling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deerling-winter.png"
         },
         {
             "number": "586",
             "name": "Sawsbuck (Spring)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sawsbuck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sawsbuck.png"
         },
         {
             "number": "586",
             "name": "Sawsbuck (Summer)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/summer-sawsbuck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sawsbuck-summer.png"
         },
         {
             "number": "586",
             "name": "Sawsbuck (Autumn)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/autumn-sawsbuck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sawsbuck-autumn.png"
         },
         {
             "number": "586",
             "name": "Sawsbuck (Winter)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/winter-sawsbuck.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sawsbuck-winter.png"
         },
         {
             "number": "587",
             "name": "Emolga",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/emolga.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/emolga.png"
         },
         {
             "number": "588",
             "name": "Karrablast",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/karrablast.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/karrablast.png"
         },
         {
             "number": "589",
             "name": "Escavalier",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/escavalier.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/escavalier.png"
         },
         {
             "number": "590",
             "name": "Foongus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/foongus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/foongus.png"
         },
         {
             "number": "591",
             "name": "Amoonguss",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/amoonguss.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/amoonguss.png"
         },
         {
             "number": "592",
             "name": "Frillish (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/frillish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/frillish.png"
         },
         {
             "number": "592",
             "name": "Frillish (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/frillish-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/frillish-f.png"
         },
         {
             "number": "593",
             "name": "Jellicent (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jellicent.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jellicent.png"
         },
         {
             "number": "593",
             "name": "Jellicent (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jellicent-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jellicent-f.png"
         },
         {
             "number": "594",
             "name": "Alomomola",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alomomola.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alomomola.png"
         },
         {
             "number": "595",
             "name": "Joltik",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/joltik.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/joltik.png"
         },
         {
             "number": "596",
             "name": "Galvantula",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galvantula.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/galvantula.png"
         },
         {
             "number": "597",
             "name": "Ferroseed",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ferroseed.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ferroseed.png"
         },
         {
             "number": "598",
             "name": "Ferrothorn",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ferrothorn.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ferrothorn.png"
         },
         {
             "number": "599",
             "name": "Klink",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/klink.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/klink.png"
         },
         {
             "number": "600",
             "name": "Klang",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/klang.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/klang.png"
         },
         {
             "number": "601",
             "name": "Klinklang",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/klinklang.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/klinklang.png"
         },
         {
             "number": "602",
             "name": "Tynamo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tynamo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tynamo.png"
         },
         {
             "number": "603",
             "name": "Eelektrik",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eelektrik.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eelektrik.png"
         },
         {
             "number": "604",
             "name": "Eelektross",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eelektross.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eelektross.png"
         },
         {
             "number": "605",
             "name": "Elgyem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/elgyem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/elgyem.png"
         },
         {
             "number": "606",
             "name": "Beheeyem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beheeyem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beheeyem.png"
         }
     ],
     "26": [
         {
             "number": "607",
             "name": "Litwick",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/litwick.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/litwick.png"
         },
         {
             "number": "608",
             "name": "Lampent",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lampent.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lampent.png"
         },
         {
             "number": "609",
             "name": "Chandelure",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chandelure.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chandelure.png"
         },
         {
             "number": "610",
             "name": "Axew",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/axew.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/axew.png"
         },
         {
             "number": "611",
             "name": "Fraxure",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fraxure.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fraxure.png"
         },
         {
             "number": "612",
             "name": "Haxorus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/haxorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/haxorus.png"
         },
         {
             "number": "613",
             "name": "Cubchoo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cubchoo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cubchoo.png"
         },
         {
             "number": "614",
             "name": "Beartic",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/beartic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/beartic.png"
         },
         {
             "number": "615",
             "name": "Cryogonal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cryogonal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cryogonal.png"
         },
         {
             "number": "616",
             "name": "Shelmet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shelmet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shelmet.png"
         },
         {
             "number": "617",
             "name": "Accelgor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/accelgor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/accelgor.png"
         },
         {
             "number": "618",
             "name": "Stunfisk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stunfisk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stunfisk.png"
         },
         {
             "number": "619",
             "name": "Mienfoo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mienfoo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mienfoo.png"
         },
         {
             "number": "620",
             "name": "Mienshao",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mienshao.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mienshao.png"
         },
         {
             "number": "621",
             "name": "Druddigon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/druddigon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/druddigon.png"
         },
         {
             "number": "622",
             "name": "Golett",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golett.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golett.png"
         },
         {
             "number": "623",
             "name": "Golurk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golurk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golurk.png"
         },
         {
             "number": "624",
             "name": "Pawniard",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pawniard.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pawniard.png"
         },
         {
             "number": "625",
             "name": "Bisharp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bisharp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bisharp.png"
         },
         {
             "number": "626",
             "name": "Bouffalant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bouffalant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bouffalant.png"
         },
         {
             "number": "627",
             "name": "Rufflet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rufflet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rufflet.png"
         },
         {
             "number": "628",
             "name": "Braviary",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/braviary.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/braviary.png"
         },
         {
             "number": "629",
             "name": "Vullaby",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vullaby.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vullaby.png"
         },
         {
             "number": "630",
             "name": "Mandibuzz",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mandibuzz.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mandibuzz.png"
         },
         {
             "number": "631",
             "name": "Heatmor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heatmor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/heatmor.png"
         },
         {
             "number": "632",
             "name": "Durant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/durant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/durant.png"
         },
         {
             "number": "633",
             "name": "Deino",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/deino.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/deino.png"
         },
         {
             "number": "634",
             "name": "Zweilous",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zweilous.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zweilous.png"
         },
         {
             "number": "635",
             "name": "Hydreigon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hydreigon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hydreigon.png"
         },
         {
             "number": "636",
             "name": "Larvesta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/larvesta.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/larvesta.png"
         }
     ],
     "27": [
         {
             "number": "637",
             "name": "Volcarona",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/volcarona.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/volcarona.png"
         },
         {
             "number": "638",
             "name": "Cobalion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cobalion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cobalion.png"
         },
         {
             "number": "639",
             "name": "Terrakion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/terrakion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/terrakion.png"
         },
         {
             "number": "640",
             "name": "Virizion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/virizion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/virizion.png"
         },
         {
             "number": "641",
             "name": "Torandus (Incarnate)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tornadus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tornadus.png"
         },
         {
             "number": "641",
             "name": "Tornadus (Therian)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/therian-tornadus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tornadus-therian.png"
         },
         {
             "number": "642",
             "name": "Thundurus (Incarnate)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/thundurus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/thundurus.png"
         },
         {
             "number": "642",
             "name": "Thundurus (Therian)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/therian-thundurus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/thundurus-therian.png"
         },
         {
             "number": "643",
             "name": "Reshiram",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/reshiram.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/reshiram.png"
         },
         {
             "number": "644",
             "name": "Zekrom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zekrom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zekrom.png"
         },
         {
             "number": "645",
             "name": "Landorus (Incarnate)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/landorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/landorus.png"
         },
         {
             "number": "645",
             "name": "Landorus (Therian)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/therian-landorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/landorus-therian.png"
         },
         {
             "number": "646",
             "name": "Kyurem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kyurem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kyurem.png"
         },
         {
             "number": "647",
             "name": "Keldeo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/keldeo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/keldeo.png"
         },
         {
             "number": "647",
             "name": "Keldeo (Resolute)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/resolute-keldeo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/keldeo-resolute.png"
         },
         {
             "number": "648",
             "name": "Meloetta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meloetta.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meloetta.png"
         },
         {
             "number": "649",
             "name": "Genesect",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/genesect.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/genesect.png"
         },
         {
             "number": "650",
             "name": "Chespin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chespin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chespin.png"
         },
         {
             "number": "651",
             "name": "Quilladin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/quilladin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/quilladin.png"
         },
         {
             "number": "652",
             "name": "Chesnaught",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chesnaught.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chesnaught.png"
         },
         {
             "number": "653",
             "name": "Fennekin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fennekin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fennekin.png"
         },
         {
             "number": "654",
             "name": "Braixen",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/braixen.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/braixen.png"
         },
         {
             "number": "655",
             "name": "Delphox",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/delphox.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/delphox.png"
         },
         {
             "number": "656",
             "name": "Froakie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/froakie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/froakie.png"
         },
         {
             "number": "657",
             "name": "Frogadier",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/frogadier.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/frogadier.png"
         },
         {
             "number": "658",
             "name": "Greninja",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/greninja.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/greninja.png"
         },
         {
             "number": "659",
             "name": "Bunnelby",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bunnelby.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bunnelby.png"
         },
         {
             "number": "660",
             "name": "Diggersby",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/diggersby.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/diggersby.png"
         },
         {
             "number": "661",
             "name": "Fletchling",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fletchling.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fletchling.png"
         },
         {
             "number": "662",
             "name": "Fletchinder",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fletchinder.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fletchinder.png"
         }
     ],
     "28": [
         {
             "number": "663",
             "name": "Talonflame",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/talonflame.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/talonflame.png"
         },
         {
             "number": "664",
             "name": "Scatterbug",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scatterbug.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scatterbug.png"
         },
         {
             "number": "665",
             "name": "Spewpa",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spewpa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spewpa.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Archipelago)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-archipelago.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-archipelago.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Continental)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-continental.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-continental.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Elegant)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-elegant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-elegant.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Garden)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-garden.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-garden.png"
         },
         {
             "number": "666",
             "name": "Vivillon (High Plains)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-high-plains.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-high-plains.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Icy Snow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-icy-snow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-icy-snow.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Jungle)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-jungle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-jungle.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Marine)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-marine.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-marine.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Meadow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Modern)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-modern.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-modern.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Monsoon)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-monsoon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-monsoon.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Ocean)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-ocean.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-ocean.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Polar)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-polar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-polar.png"
         },
         {
             "number": "666",
             "name": "Vivillon (River)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-river.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-river.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Sandstorm)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-sandstorm.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-sandstorm.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Savanna)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-savanna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-savanna.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Sun)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-sun.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-sun.png"
         },
         {
             "number": "666",
             "name": "Vivillon (Tundra)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vivillon-tundra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vivillon-tundra.png"
         },
         {
             "number": "667",
             "name": "Litleo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/litleo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/litleo.png"
         },
         {
             "number": "668",
             "name": "Pyroar (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pyroar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pyroar.png"
         },
         {
             "number": "668",
             "name": "Pyroar (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pyroar-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pyroar-f.png"
         },
         {
             "number": "669",
             "name": "Flab\u00e9b\u00e9 (Red)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flabebe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flabebe.png"
         },
         {
             "number": "669",
             "name": "Flab\u00e9b\u00e9 (Yellow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yellow-flabebe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flabebe-yellow.png"
         },
         {
             "number": "669",
             "name": "Flab\u00e9b\u00e9 (Orange)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/orange-flabebe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flabebe-orange.png"
         },
         {
             "number": "669",
             "name": "Flab\u00e9b\u00e9 (Blue)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blue-flabebe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flabebe-blue.png"
         },
         {
             "number": "669",
             "name": "Flab\u00e9b\u00e9 (White)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/white-flabebe.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flabebe-white.png"
         },
         {
             "number": "670",
             "name": "Floette (Red)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/floette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floette.png"
         }
     ],
     "29": [
         {
             "number": "670",
             "name": "Floette (Yellow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yellow-floette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floette-yellow.png"
         },
         {
             "number": "670",
             "name": "Floette (Orange)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/orange-floette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floette-orange.png"
         },
         {
             "number": "670",
             "name": "Floette (Blue)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blue-floette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floette-blue.png"
         },
         {
             "number": "670",
             "name": "Floette (White)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/white-floette.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/floette-white.png"
         },
         {
             "number": "671",
             "name": "Florges (Red)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/florges.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/florges.png"
         },
         {
             "number": "671",
             "name": "Florges (Yellow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yellow-florges.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/florges-yellow.png"
         },
         {
             "number": "671",
             "name": "Florges (Orange)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/orange-florges.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/florges-orange.png"
         },
         {
             "number": "671",
             "name": "Florges (Blue)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blue-florges.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/florges-blue.png"
         },
         {
             "number": "671",
             "name": "Florges (White)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/white-florges.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/florges-white.png"
         },
         {
             "number": "672",
             "name": "Skiddo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skiddo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skiddo.png"
         },
         {
             "number": "673",
             "name": "Gogoat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gogoat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gogoat.png"
         },
         {
             "number": "674",
             "name": "Pancham",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pancham.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pancham.png"
         },
         {
             "number": "675",
             "name": "Pangoro",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pangoro.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pangoro.png"
         },
         {
             "number": "676",
             "name": "Furfrou",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/furfrou.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/furfrou.png"
         },
         {
             "number": "677",
             "name": "Espurr",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/espurr.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/espurr.png"
         },
         {
             "number": "678",
             "name": "Meowstic (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meowstic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowstic.png"
         },
         {
             "number": "678",
             "name": "Meowstic (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meowstic-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowstic-female.png"
         },
         {
             "number": "679",
             "name": "Honedge",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/honedge.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/honedge.png"
         },
         {
             "number": "680",
             "name": "Doublade",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/doublade.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/doublade.png"
         },
         {
             "number": "681",
             "name": "Aegislash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aegislash.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aegislash.png"
         },
         {
             "number": "682",
             "name": "Spritzee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spritzee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spritzee.png"
         },
         {
             "number": "683",
             "name": "Aromatisse",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aromatisse.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aromatisse.png"
         },
         {
             "number": "684",
             "name": "Swirlix",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/swirlix.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/swirlix.png"
         },
         {
             "number": "685",
             "name": "Slurpuff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/slurpuff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/slurpuff.png"
         },
         {
             "number": "686",
             "name": "Inkay",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/inkay.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/inkay.png"
         },
         {
             "number": "687",
             "name": "Malamar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/malamar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/malamar.png"
         },
         {
             "number": "688",
             "name": "Binacle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/binacle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/binacle.png"
         },
         {
             "number": "689",
             "name": "Barbaracle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/barbaracle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/barbaracle.png"
         },
         {
             "number": "690",
             "name": "Skrelp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skrelp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skrelp.png"
         },
         {
             "number": "691",
             "name": "Dragalge",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dragalge.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dragalge.png"
         }
     ],
     "30": [
         {
             "number": "692",
             "name": "Clauncher",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clauncher.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clauncher.png"
         },
         {
             "number": "693",
             "name": "Clawitzer",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clawitzer.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clawitzer.png"
         },
         {
             "number": "694",
             "name": "Helioptile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/helioptile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/helioptile.png"
         },
         {
             "number": "695",
             "name": "Heliolisk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/heliolisk.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/heliolisk.png"
         },
         {
             "number": "696",
             "name": "Tyrunt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tyrunt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tyrunt.png"
         },
         {
             "number": "697",
             "name": "Tyrantrum",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tyrantrum.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tyrantrum.png"
         },
         {
             "number": "698",
             "name": "Amaura",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/amaura.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/amaura.png"
         },
         {
             "number": "699",
             "name": "Aurorus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/aurorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/aurorus.png"
         },
         {
             "number": "700",
             "name": "Sylveon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sylveon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sylveon.png"
         },
         {
             "number": "701",
             "name": "Hawlucha",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hawlucha.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hawlucha.png"
         },
         {
             "number": "702",
             "name": "Dedenne",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dedenne.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dedenne.png"
         },
         {
             "number": "703",
             "name": "Carbink",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/carbink.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/carbink.png"
         },
         {
             "number": "704",
             "name": "Goomy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/goomy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/goomy.png"
         },
         {
             "number": "705",
             "name": "Sliggoo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sliggoo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sliggoo.png"
         },
         {
             "number": "706",
             "name": "Goodra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/goodra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/goodra.png"
         },
         {
             "number": "707",
             "name": "Klefki",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/klefki.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/klefki.png"
         },
         {
             "number": "708",
             "name": "Phantump",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/phantump.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/phantump.png"
         },
         {
             "number": "709",
             "name": "Trevenant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trevenant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/trevenant.png"
         },
         {
             "number": "710",
             "name": "Pumpkaboo (Small Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/small-pumpkaboo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pumpkaboo-small.png"
         },
         {
             "number": "710",
             "name": "Pumpkaboo (Average Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pumpkaboo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pumpkaboo.png"
         },
         {
             "number": "710",
             "name": "Pumpkaboo (Large Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/large-pumpkaboo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pumpkaboo-large.png"
         },
         {
             "number": "710",
             "name": "Pumpkaboo (Super Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/super-pumpkaboo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pumpkaboo-super.png"
         },
         {
             "number": "711",
             "name": "Gourgeist (Small Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/small-gourgeist.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gourgeist-small.png"
         },
         {
             "number": "711",
             "name": "Gourgeist (Average Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gourgeist.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gourgeist.png"
         },
         {
             "number": "711",
             "name": "Gourgeist (Large Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/large-gourgeist.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gourgeist-large.png"
         },
         {
             "number": "711",
             "name": "Gourgeist (Super Size)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/super-gourgeist.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gourgeist-super.png"
         },
         {
             "number": "712",
             "name": "Bergmite",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bergmite.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bergmite.png"
         },
         {
             "number": "713",
             "name": "Avalugg",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/avalugg.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/avalugg.png"
         },
         {
             "number": "714",
             "name": "Noibat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/noibat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/noibat.png"
         },
         {
             "number": "715",
             "name": "Noivern",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/noivern.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/noivern.png"
         }
     ],
     "31": [
         {
             "number": "716",
             "name": "Xerneas",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/xerneas.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/xerneas.png"
         },
         {
             "number": "717",
             "name": "Yveltal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yveltal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yveltal.png"
         },
         {
             "number": "718",
             "name": "Zygarde (50%)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zygarde.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zygarde.png"
         },
         {
             "number": "718",
             "name": "Zygarde (10%)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zygarde-10.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zygarde-10.png"
         },
         {
             "number": "719",
             "name": "Diancie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/diancie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/diancie.png"
         },
         {
             "number": "720",
             "name": "Hoopa (Confined)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hoopa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hoopa.png"
         },
         {
             "number": "720",
             "name": "Hoopa (Unbound)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hoopa-unbound.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hoopa-unbound.png"
         },
         {
             "number": "721",
             "name": "Volcanion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/volcanion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/volcanion.png"
         },
         {
             "number": "722",
             "name": "Rowlet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rowlet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rowlet.png"
         },
         {
             "number": "723",
             "name": "Dartrix",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dartrix.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dartrix.png"
         },
         {
             "number": "724",
             "name": "Decidueye",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/decidueye.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/decidueye.png"
         },
         {
             "number": "725",
             "name": "Litten",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/litten.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/litten.png"
         },
         {
             "number": "726",
             "name": "Torracat",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/torracat.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/torracat.png"
         },
         {
             "number": "727",
             "name": "Incineroar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/incineroar.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/incineroar.png"
         },
         {
             "number": "728",
             "name": "Popplio",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/popplio.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/popplio.png"
         },
         {
             "number": "729",
             "name": "Brionne",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/brionne.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/brionne.png"
         },
         {
             "number": "730",
             "name": "Primarina",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/primarina.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/primarina.png"
         },
         {
             "number": "731",
             "name": "Pikipek",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pikipek.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pikipek.png"
         },
         {
             "number": "732",
             "name": "Trumbeak",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/trumbeak.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/trumbeak.png"
         },
         {
             "number": "733",
             "name": "Toucannon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toucannon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toucannon.png"
         },
         {
             "number": "734",
             "name": "Yungoos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yungoos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yungoos.png"
         },
         {
             "number": "735",
             "name": "Gumshoos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gumshoos.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gumshoos.png"
         },
         {
             "number": "736",
             "name": "Grubbin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grubbin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grubbin.png"
         },
         {
             "number": "737",
             "name": "Charjabug",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/charjabug.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/charjabug.png"
         },
         {
             "number": "738",
             "name": "Vikavolt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/vikavolt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/vikavolt.png"
         },
         {
             "number": "739",
             "name": "Crabrawler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/crabrawler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/crabrawler.png"
         },
         {
             "number": "740",
             "name": "Crabominable",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/crabominable.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/crabominable.png"
         },
         {
             "number": "741",
-            "name": "Oricorio (Baile)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oricorio.png"
+            "name": "Oricorio (Baile Style)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oricorio.png"
         },
         {
             "number": "741",
-            "name": "Oricorio (Pom-Pom)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oricorio-pom-pom.png"
+            "name": "Oricorio (Pom-Pom Style)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oricorio-pom-pom.png"
         },
         {
             "number": "741",
-            "name": "Oricorio (Pa'u)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oricorio-pau.png"
+            "name": "Oricorio (Pa'u Style)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oricorio-pau.png"
         }
     ],
     "32": [
         {
             "number": "741",
-            "name": "Oricorio (Sensu)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oricorio-sensu.png"
+            "name": "Oricorio (Sensu Style)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oricorio-sensu.png"
         },
         {
             "number": "742",
             "name": "Cutiefly",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cutiefly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cutiefly.png"
         },
         {
             "number": "743",
             "name": "Ribombee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ribombee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ribombee.png"
         },
         {
             "number": "744",
             "name": "Rockruff",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rockruff.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rockruff.png"
         },
         {
             "number": "745",
             "name": "Lycanroc (Midday)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lycanroc.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lycanroc.png"
         },
         {
             "number": "745",
             "name": "Lycanroc (Midnight)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/midnight-lycanroc.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lycanroc-midnight.png"
         },
         {
             "number": "745",
             "name": "Lycanroc (Dusk)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dusk-lycanroc.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lycanroc-dusk.png"
         },
         {
             "number": "746",
             "name": "Wishiwashi",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wishiwashi.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wishiwashi.png"
         },
         {
             "number": "747",
             "name": "Mareanie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mareanie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mareanie.png"
         },
         {
             "number": "748",
             "name": "Toxapex",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxapex.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxapex.png"
         },
         {
             "number": "749",
             "name": "Mudbray",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mudbray.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mudbray.png"
         },
         {
             "number": "750",
             "name": "Mudsdale",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mudsdale.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mudsdale.png"
         },
         {
             "number": "751",
             "name": "Dewpider",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dewpider.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dewpider.png"
         },
         {
             "number": "752",
             "name": "Araquanid",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/araquanid.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/araquanid.png"
         },
         {
             "number": "753",
             "name": "Fomantis",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/fomantis.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/fomantis.png"
         },
         {
             "number": "754",
             "name": "Lurantis",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lurantis.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lurantis.png"
         },
         {
             "number": "755",
             "name": "Morelull",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/morelull.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/morelull.png"
         },
         {
             "number": "756",
             "name": "Shiinotic",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/shiinotic.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/shiinotic.png"
         },
         {
             "number": "757",
             "name": "Salandit",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/salandit.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/salandit.png"
         },
         {
             "number": "758",
             "name": "Salazzle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/salazzle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/salazzle.png"
         },
         {
             "number": "759",
             "name": "Stufful",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stufful.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stufful.png"
         },
         {
             "number": "760",
             "name": "Bewear",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bewear.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bewear.png"
         },
         {
             "number": "761",
             "name": "Bounsweet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bounsweet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bounsweet.png"
         },
         {
             "number": "762",
             "name": "Steenee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/steenee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/steenee.png"
         },
         {
             "number": "763",
             "name": "Tsareena",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tsareena.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tsareena.png"
         },
         {
             "number": "764",
             "name": "Comfey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/comfey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/comfey.png"
         },
         {
             "number": "765",
             "name": "Oranguru",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/oranguru.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/oranguru.png"
         },
         {
             "number": "766",
             "name": "Passimian",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/passimian.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/passimian.png"
         },
         {
             "number": "767",
             "name": "Wimpod",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wimpod.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wimpod.png"
         },
         {
             "number": "768",
             "name": "Golisopod",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/golisopod.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/golisopod.png"
         }
     ],
     "33": [
         {
             "number": "769",
             "name": "Sandygast",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandygast.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandygast.png"
         },
         {
             "number": "770",
             "name": "Palossand",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/palossand.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/palossand.png"
         },
         {
             "number": "771",
             "name": "Pyukumuku",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pyukumuku.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pyukumuku.png"
         },
         {
             "number": "772",
             "name": "Type: Null",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/type-null.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/type-null.png"
         },
         {
             "number": "773",
             "name": "Silvally",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/silvally.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/silvally.png"
         },
         {
             "number": "774",
             "name": "Minior (Red)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-red.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-red-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Orange)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-orange.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-orange-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Yellow)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-yellow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-yellow-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Green)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-green.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-green-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Blue)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-blue.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-blue-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Indigo)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-indigo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-indigo-core.png"
         },
         {
             "number": "774",
             "name": "Minior (Violet)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/minior-violet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/minior-violet-core.png"
         },
         {
             "number": "775",
             "name": "Komala",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/komala.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/komala.png"
         },
         {
             "number": "776",
             "name": "Turtonator",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/turtonator.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/turtonator.png"
         },
         {
             "number": "777",
             "name": "Togedemaru",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/togedemaru.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/togedemaru.png"
         },
         {
             "number": "778",
             "name": "Mimikyu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mimikyu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mimikyu.png"
         },
         {
             "number": "779",
             "name": "Bruxish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/bruxish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/bruxish.png"
         },
         {
             "number": "780",
             "name": "Drampa",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drampa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drampa.png"
         },
         {
             "number": "781",
             "name": "Dhelmise",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dhelmise.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dhelmise.png"
         },
         {
             "number": "782",
             "name": "Jangmo-o",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/jangmo-o.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/jangmo-o.png"
         },
         {
             "number": "783",
             "name": "Hakamo-o",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hakamo-o.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hakamo-o.png"
         },
         {
             "number": "784",
             "name": "Kommo-o",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kommo-o.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kommo-o.png"
         },
         {
             "number": "785",
             "name": "Tapu Koko",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tapu-koko.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tapu-koko.png"
         },
         {
             "number": "786",
             "name": "Tapu Lele",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tapu-lele.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tapu-lele.png"
         },
         {
             "number": "787",
             "name": "Tapu Bulu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tapu-bulu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tapu-bulu.png"
         },
         {
             "number": "788",
             "name": "Tapu Fini",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/tapu-fini.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tapu-fini.png"
         },
         {
             "number": "789",
             "name": "Cosmog",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cosmog.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cosmog.png"
         },
         {
             "number": "790",
             "name": "Cosmoem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cosmoem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cosmoem.png"
         },
         {
             "number": "791",
             "name": "Solgaleo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/solgaleo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/solgaleo.png"
         },
         {
             "number": "792",
             "name": "Lunala",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lunala.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/lunala.png"
         }
     ],
     "34": [
         {
             "number": "793",
             "name": "Nihilego",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nihilego.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nihilego.png"
         },
         {
             "number": "794",
             "name": "Buzzwole",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/buzzwole.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/buzzwole.png"
         },
         {
             "number": "795",
             "name": "Pheromosa",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pheromosa.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pheromosa.png"
         },
         {
             "number": "796",
             "name": "Xurkitree",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/xurkitree.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/xurkitree.png"
         },
         {
             "number": "797",
             "name": "Celesteela",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/celesteela.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/celesteela.png"
         },
         {
             "number": "798",
             "name": "Kartana",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kartana.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kartana.png"
         },
         {
             "number": "799",
             "name": "Guzzlord",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/guzzlord.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/guzzlord.png"
         },
         {
             "number": "800",
             "name": "Necrozma",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/necrozma.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/necrozma.png"
         },
         {
             "number": "801",
             "name": "Magearna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/magearna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/magearna.png"
         },
         {
             "number": "802",
             "name": "Marshadow",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/marshadow.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/marshadow.png"
         },
         {
             "number": "803",
             "name": "Poipole",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/poipole.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/poipole.png"
         },
         {
             "number": "804",
             "name": "Naganadel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/naganadel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/naganadel.png"
         },
         {
             "number": "805",
             "name": "Stakataka",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stakataka.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stakataka.png"
         },
         {
             "number": "806",
             "name": "Blacephalon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blacephalon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blacephalon.png"
         },
         {
             "number": "807",
             "name": "Zeraora",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zeraora.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zeraora.png"
         },
         {
             "number": "808",
             "name": "Meltan",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meltan.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/meltan.png"
         },
         {
             "number": "809",
             "name": "Melmetal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/melmetal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/melmetal.png"
         },
         {
             "number": "810",
             "name": "Grookey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grookey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grookey.png"
         },
         {
             "number": "811",
             "name": "Thwackey",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/thwackey.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/thwackey.png"
         },
         {
             "number": "812",
             "name": "Rillaboom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rillaboom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rillaboom.png"
         },
         {
             "number": "813",
             "name": "Scorbunny",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/scorbunny.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/scorbunny.png"
         },
         {
             "number": "814",
             "name": "Raboot",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/raboot.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/raboot.png"
         },
         {
             "number": "815",
             "name": "Cinderace",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cinderace.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cinderace.png"
         },
         {
             "number": "816",
             "name": "Sobble",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sobble.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sobble.png"
         },
         {
             "number": "817",
             "name": "Drizzile",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drizzile.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drizzile.png"
         },
         {
             "number": "818",
             "name": "Inteleon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/inteleon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/inteleon.png"
         },
         {
             "number": "819",
             "name": "Skwovet",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/skwovet.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/skwovet.png"
         },
         {
             "number": "820",
             "name": "Greedent",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/greedent.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/greedent.png"
         },
         {
             "number": "821",
             "name": "Rookidee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rookidee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rookidee.png"
         },
         {
             "number": "822",
             "name": "Corvisquire",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/corvisquire.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/corvisquire.png"
         }
     ],
     "35": [
         {
             "number": "823",
             "name": "Corviknight",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/corviknight.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/corviknight.png"
         },
         {
             "number": "824",
             "name": "Blipbug",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blipbug.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/blipbug.png"
         },
         {
             "number": "825",
             "name": "Dottler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dottler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dottler.png"
         },
         {
             "number": "826",
             "name": "Orbeetle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/orbeetle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/orbeetle.png"
         },
         {
             "number": "827",
             "name": "Nickit",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/nickit.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/nickit.png"
         },
         {
             "number": "828",
             "name": "Thievul",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/thievul.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/thievul.png"
         },
         {
             "number": "829",
             "name": "Gossifleur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gossifleur.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gossifleur.png"
         },
         {
             "number": "830",
             "name": "Eldegoss",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eldegoss.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eldegoss.png"
         },
         {
             "number": "831",
             "name": "Wooloo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wooloo.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wooloo.png"
         },
         {
             "number": "832",
             "name": "Dubwool",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dubwool.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dubwool.png"
         },
         {
             "number": "833",
             "name": "Chewtle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/chewtle.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/chewtle.png"
         },
         {
             "number": "834",
             "name": "Drednaw",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drednaw.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drednaw.png"
         },
         {
             "number": "835",
             "name": "Yamper",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/yamper.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/yamper.png"
         },
         {
             "number": "836",
             "name": "Boltund",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/boltund.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/boltund.png"
         },
         {
             "number": "837",
             "name": "Rolycoly",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rolycoly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/rolycoly.png"
         },
         {
             "number": "838",
             "name": "Carkol",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/carkol.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/carkol.png"
         },
         {
             "number": "839",
             "name": "Coalossal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/coalossal.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/coalossal.png"
         },
         {
             "number": "840",
             "name": "Applin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/applin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/applin.png"
         },
         {
             "number": "841",
             "name": "Flapple",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flapple.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/flapple.png"
         },
         {
             "number": "842",
             "name": "Appletun",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/appletun.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/appletun.png"
         },
         {
             "number": "843",
             "name": "Silicobra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/silicobra.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/silicobra.png"
         },
         {
             "number": "844",
             "name": "Sandaconda",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandaconda.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandaconda.png"
         },
         {
             "number": "845",
             "name": "Cramorant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cramorant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cramorant.png"
         },
         {
             "number": "846",
             "name": "Arrokuda",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arrokuda.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arrokuda.png"
         },
         {
             "number": "847",
             "name": "Barraskewda",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/barraskewda.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/barraskewda.png"
         },
         {
             "number": "848",
             "name": "Toxel",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxel.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxel.png"
         },
         {
             "number": "849",
             "name": "Toxtricity (Amped)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxtricity.png"
         },
         {
             "number": "849",
             "name": "Toxtricity (Low Key)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity-low-key.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxtricity-low-key.png"
         },
         {
             "number": "850",
             "name": "Sizzlipede",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sizzlipede.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sizzlipede.png"
         },
         {
             "number": "851",
             "name": "Centiskorch",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/centiskorch.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/centiskorch.png"
         }
     ],
     "36": [
         {
             "number": "852",
             "name": "Clobbopus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/clobbopus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/clobbopus.png"
         },
         {
             "number": "853",
             "name": "Grapploct",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grapploct.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grapploct.png"
         },
         {
             "number": "854",
             "name": "Sinistea (Phony)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sinistea.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sinistea.png"
         },
         {
             "number": "854",
             "name": "Sinistea (Antique)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sinistea-antique.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sinistea.png"
         },
         {
             "number": "855",
             "name": "Polteageist (Phony)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/polteageist.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/polteageist.png"
         },
         {
             "number": "855",
             "name": "Polteageist (Antique)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/polteageist-antique.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/polteageist.png"
         },
         {
             "number": "856",
             "name": "Hatenna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hatenna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hatenna.png"
         },
         {
             "number": "857",
             "name": "Hattrem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hattrem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hattrem.png"
         },
         {
             "number": "858",
             "name": "Hatterene",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hatterene.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/hatterene.png"
         },
         {
             "number": "859",
             "name": "Impidimp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/impidimp.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/impidimp.png"
         },
         {
             "number": "860",
             "name": "Morgrem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/morgrem.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/morgrem.png"
         },
         {
             "number": "861",
             "name": "Grimmsnarl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grimmsnarl.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/grimmsnarl.png"
         },
         {
             "number": "862",
             "name": "Obstagoon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/obstagoon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/obstagoon.png"
         },
         {
             "number": "863",
             "name": "Perrserker",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/perrserker.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/perrserker.png"
         },
         {
             "number": "864",
             "name": "Cursola",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cursola.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cursola.png"
         },
         {
             "number": "865",
             "name": "Sirfetch'd",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sirfetchd.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sirfetchd.png"
         },
         {
             "number": "866",
             "name": "Mr. Rime",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/mr-rime.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/mr-rime.png"
         },
         {
             "number": "867",
             "name": "Runerigus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/runerigus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/runerigus.png"
         },
         {
             "number": "868",
             "name": "Milcery",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/milcery.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/milcery.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-strawberry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-strawberry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-berry.png"
         }
     ],
     "37": [
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-berry.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-berry.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-love.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-love.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-star.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-star.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-clover.png"
         }
     ],
     "38": [
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-clover.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-clover.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-flower.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-flower.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-ribbon.png"
         },
         {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-ribbon.png"
         },
         {
             "number": "870",
             "name": "Falinks",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/falinks.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/falinks.png"
         },
         {
             "number": "871",
             "name": "Pincurchin",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pincurchin.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/pincurchin.png"
         },
         {
             "number": "872",
             "name": "Snom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snom.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/snom.png"
         },
         {
             "number": "873",
             "name": "Frosmoth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/frosmoth.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/frosmoth.png"
         },
         {
             "number": "874",
             "name": "Stonjourner",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/stonjourner.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/stonjourner.png"
         },
         {
             "number": "875",
             "name": "Eiscue",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eiscue.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eiscue.png"
         },
         {
             "number": "876",
             "name": "Indeedee (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/indeedee.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/indeedee.png"
         },
         {
             "number": "876",
             "name": "Indeedee (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/indeedee-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/indeedee-female.png"
         }
     ],
     "39": [
         {
             "number": "877",
             "name": "Morpeko",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/morpeko.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/morpeko.png"
         },
         {
             "number": "878",
             "name": "Cufant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cufant.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/cufant.png"
         },
         {
             "number": "879",
             "name": "Copperajah",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/copperajah.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/copperajah.png"
         },
         {
             "number": "880",
             "name": "Dracozolt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dracozolt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dracozolt.png"
         },
         {
             "number": "881",
             "name": "Arctozolt",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arctozolt.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arctozolt.png"
         },
         {
             "number": "882",
             "name": "Dracovish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dracovish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dracovish.png"
         },
         {
             "number": "883",
             "name": "Arctovish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/arctovish.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/arctovish.png"
         },
         {
             "number": "884",
             "name": "Duraludon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/duraludon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/duraludon.png"
         },
         {
             "number": "885",
             "name": "Dreepy",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dreepy.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dreepy.png"
         },
         {
             "number": "886",
             "name": "Drakloak",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drakloak.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/drakloak.png"
         },
         {
             "number": "887",
             "name": "Dragapult",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/dragapult.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dragapult.png"
         },
         {
             "number": "888",
             "name": "Zacian",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zacian.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zacian.png"
         },
         {
             "number": "889",
             "name": "Zamazenta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zamazenta.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zamazenta.png"
         },
         {
             "number": "890",
             "name": "Eternatus",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eternatus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/eternatus.png"
         },
         {
             "number": "891",
             "name": "Kubfu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kubfu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kubfu.png"
         },
         {
             "number": "892",
             "name": "Urshifu (Single Strike)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/urshifu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/urshifu.png"
         },
         {
             "number": "892",
             "name": "Urshifu (Rapid Strike)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/urshifu-rapid-strike.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/urshifu-rapid-strike.png"
         },
         {
             "number": "893",
             "name": "Zarude",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/zarude.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/zarude.png"
         },
         {
             "number": "894",
             "name": "Regieleki",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/regieleki.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/regieleki.png"
         },
         {
             "number": "895",
             "name": "Regidrago",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/regidrago.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/regidrago.png"
         },
         {
             "number": "896",
             "name": "Glastrier",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/glastrier.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/glastrier.png"
         },
         {
             "number": "897",
             "name": "Spectrier",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/spectrier.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/spectrier.png"
         },
         {
             "number": "898",
             "name": "Calyrex",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/calyrex.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/calyrex.png"
         },
         {
             "number": "899",
             "name": "Wyrdeer",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/wyrdeer.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/wyrdeer.png"
         },
         {
             "number": "900",
             "name": "Kleavor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kleavor.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/kleavor.png"
         },
         {
             "number": "901",
             "name": "Ursaluna",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/ursaluna.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/ursaluna.png"
         },
         {
             "number": "902",
             "name": "Basculegion (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/basculegion.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/basculegion.png"
         },
         {
             "number": "902",
             "name": "Basculegion (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/basculegion-female.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/basculegion-female.png"
         },
         {
             "number": "903",
             "name": "Sneasler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sneasler.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/sneasler.png"
         },
         {
             "number": "904",
             "name": "Overqwil",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/overqwil.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/overqwil.png"
         }
     ],
     "40": [
         {
             "number": "905",
             "name": "Enamorus (Incarnate)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/enamorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/enamorus.png"
         },
         {
             "number": "905",
             "name": "Enamorus (Therian)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/therian-enamorus.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/enamorus-therian.png"
+        },
+        {
+            "number": "906",
+            "name": "Sprigatito",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sprigatito.png"
+        },
+        {
+            "number": "907",
+            "name": "Floragato",
+            "image": "https://img.pokemondb.net/sprites/home/normal/floragato.png"
+        },
+        {
+            "number": "908",
+            "name": "Meowscarada",
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowscarada.png"
+        },
+        {
+            "number": "909",
+            "name": "Fuecoco",
+            "image": "https://img.pokemondb.net/sprites/home/normal/fuecoco.png"
+        },
+        {
+            "number": "910",
+            "name": "Crocalor",
+            "image": "https://img.pokemondb.net/sprites/home/normal/crocalor.png"
+        },
+        {
+            "number": "911",
+            "name": "Skeledirge",
+            "image": "https://img.pokemondb.net/sprites/home/normal/skeledirge.png"
+        },
+        {
+            "number": "912",
+            "name": "Quaxly",
+            "image": "https://img.pokemondb.net/sprites/home/normal/quaxly.png"
+        },
+        {
+            "number": "913",
+            "name": "Quaxwell",
+            "image": "https://img.pokemondb.net/sprites/home/normal/quaxwell.png"
+        },
+        {
+            "number": "914",
+            "name": "Quaquaval",
+            "image": "https://img.pokemondb.net/sprites/home/normal/quaquaval.png"
+        },
+        {
+            "number": "915",
+            "name": "Lechonk",
+            "image": "https://img.pokemondb.net/sprites/home/normal/lechonk.png"
+        },
+        {
+            "number": "916",
+            "name": "Oinkologne (M)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oinkologne.png"
+        },
+        {
+            "number": "916",
+            "name": "Oinkologne (F)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/oinkologne-f.png"
+        },
+        {
+            "number": "917",
+            "name": "Tarountula",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tarountula.png"
+        },
+        {
+            "number": "918",
+            "name": "Spidops",
+            "image": "https://img.pokemondb.net/sprites/home/normal/spidops.png"
+        },
+        {
+            "number": "919",
+            "name": "Nymble",
+            "image": "https://img.pokemondb.net/sprites/home/normal/nymble.png"
+        },
+        {
+            "number": "920",
+            "name": "Lokix",
+            "image": "https://img.pokemondb.net/sprites/home/normal/lokix.png"
+        },
+        {
+            "number": "921",
+            "name": "Pawmi",
+            "image": "https://img.pokemondb.net/sprites/home/normal/pawmi.png"
+        },
+        {
+            "number": "922",
+            "name": "Pawmo",
+            "image": "https://img.pokemondb.net/sprites/home/normal/pawmo.png"
+        },
+        {
+            "number": "923",
+            "name": "Pawmot",
+            "image": "https://img.pokemondb.net/sprites/home/normal/pawmot.png"
+        },
+        {
+            "number": "924",
+            "name": "Tandemaus",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tandemaus.png"
+        },
+        {
+            "number": "925",
+            "name": "Maushold (Family of Four)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/maushold-(family-of-four).png"
+        },
+        {
+            "number": "925",
+            "name": "Maushold (Family of Three)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/maushold-(family-of-three).png"
+        },
+        {
+            "number": "926",
+            "name": "Fidough",
+            "image": "https://img.pokemondb.net/sprites/home/normal/fidough.png"
+        },
+        {
+            "number": "927",
+            "name": "Dachsbun",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dachsbun.png"
+        },
+        {
+            "number": "928",
+            "name": "Smoliv",
+            "image": "https://img.pokemondb.net/sprites/home/normal/smoliv.png"
+        },
+        {
+            "number": "929",
+            "name": "Dolliv",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dolliv.png"
+        },
+        {
+            "number": "930",
+            "name": "Arboliva",
+            "image": "https://img.pokemondb.net/sprites/home/normal/arboliva.png"
+        },
+        {
+            "number": "931",
+            "name": "Squawkabilly (Green Plumage)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/(green-squawkabilly.png"
         }
     ],
     "41": [
         {
-            "number": "19",
-            "name": "Alolan Rattata",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-rattata.png"
+            "number": "931",
+            "name": "Squawkabilly (Blue Plumage)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(blue-plumage).png"
         },
         {
-            "number": "20",
-            "name": "Alolan Raticate",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-raticate.png"
+            "number": "931",
+            "name": "Squawkabilly (Yellow Plumage)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(yellow-plumage).png"
         },
         {
-            "number": "26",
-            "name": "Alolan Raichu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-raichu.png"
+            "number": "931",
+            "name": "Squawkabilly (White Plumage)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(white-plumage).png"
         },
         {
-            "number": "27",
-            "name": "Alolan Sandshrew",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-sandshrew.png"
+            "number": "932",
+            "name": "Nacli",
+            "image": "https://img.pokemondb.net/sprites/home/normal/nacli.png"
         },
         {
-            "number": "28",
-            "name": "Alolan Sandslash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-sandslash.png"
+            "number": "933",
+            "name": "Naclstack",
+            "image": "https://img.pokemondb.net/sprites/home/normal/naclstack.png"
         },
         {
-            "number": "37",
-            "name": "Alolan Vulpix",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-vulpix.png"
+            "number": "934",
+            "name": "Garganacl",
+            "image": "https://img.pokemondb.net/sprites/home/normal/garganacl.png"
         },
         {
-            "number": "38",
-            "name": "Alolan Ninetales",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-ninetales.png"
+            "number": "935",
+            "name": "Charcadet",
+            "image": "https://img.pokemondb.net/sprites/home/normal/charcadet.png"
         },
         {
-            "number": "50",
-            "name": "Alolan Diglett",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-diglett.png"
+            "number": "936",
+            "name": "Armarouge",
+            "image": "https://img.pokemondb.net/sprites/home/normal/armarouge.png"
         },
         {
-            "number": "51",
-            "name": "Alolan Dugtrio",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-dugtrio.png"
+            "number": "937",
+            "name": "Ceruledge",
+            "image": "https://img.pokemondb.net/sprites/home/normal/ceruledge.png"
         },
         {
-            "number": "52",
-            "name": "Alolan Meowth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-meowth.png"
+            "number": "938",
+            "name": "Tadbulb",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tadbulb.png"
         },
         {
-            "number": "53",
-            "name": "Alolan Persian",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-persian.png"
+            "number": "939",
+            "name": "Bellibolt",
+            "image": "https://img.pokemondb.net/sprites/home/normal/bellibolt.png"
         },
         {
-            "number": "74",
-            "name": "Alolan Geodude",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-geodude.png"
+            "number": "940",
+            "name": "Wattrel",
+            "image": "https://img.pokemondb.net/sprites/home/normal/wattrel.png"
         },
         {
-            "number": "75",
-            "name": "Alolan Graveler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-graveler.png"
+            "number": "941",
+            "name": "Kilowattrel",
+            "image": "https://img.pokemondb.net/sprites/home/normal/kilowattrel.png"
         },
         {
-            "number": "76",
-            "name": "Alolan Golem",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-golem.png"
+            "number": "942",
+            "name": "Maschiff",
+            "image": "https://img.pokemondb.net/sprites/home/normal/maschiff.png"
         },
         {
-            "number": "88",
-            "name": "Alolan Grimer",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-grimer.png"
+            "number": "943",
+            "name": "Mabosstiiff",
+            "image": "https://img.pokemondb.net/sprites/home/normal/mabosstiiff.png"
         },
         {
-            "number": "89",
-            "name": "Alolan Muk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-muk.png"
+            "number": "944",
+            "name": "Shroodle",
+            "image": "https://img.pokemondb.net/sprites/home/normal/shroodle.png"
         },
         {
-            "number": "103",
-            "name": "Alolan Exeggutor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-exeggutor.png"
+            "number": "945",
+            "name": "Grafaiai",
+            "image": "https://img.pokemondb.net/sprites/home/normal/grafaiai.png"
         },
         {
-            "number": "105",
-            "name": "Alolan Marowak",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alolan-marowak.png"
+            "number": "946",
+            "name": "Bramblin",
+            "image": "https://img.pokemondb.net/sprites/home/normal/bramblin.png"
         },
         {
-            "number": "52",
-            "name": "Galarian Meowth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-meowth.png"
+            "number": "947",
+            "name": "Brambleghast",
+            "image": "https://img.pokemondb.net/sprites/home/normal/brambleghast.png"
         },
         {
-            "number": "77",
-            "name": "Galarian Ponyta",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-ponyta.png"
+            "number": "948",
+            "name": "Toedscool",
+            "image": "https://img.pokemondb.net/sprites/home/normal/toedscool.png"
         },
         {
-            "number": "78",
-            "name": "Galarian Rapidash",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-rapidash.png"
+            "number": "949",
+            "name": "Toedscruel",
+            "image": "https://img.pokemondb.net/sprites/home/normal/toedscruel.png"
         },
         {
-            "number": "79",
-            "name": "Galarian Slowpoke",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-slowpoke.png"
+            "number": "950",
+            "name": "Klawf",
+            "image": "https://img.pokemondb.net/sprites/home/normal/klawf.png"
         },
         {
-            "number": "80",
-            "name": "Galarian Slowbro",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-slowbro.png"
+            "number": "951",
+            "name": "Capsakid",
+            "image": "https://img.pokemondb.net/sprites/home/normal/capsakid.png"
         },
         {
-            "number": "83",
-            "name": "Galarian Farfetch'd",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-farfetchd.png"
+            "number": "952",
+            "name": "Scovillain",
+            "image": "https://img.pokemondb.net/sprites/home/normal/scovillain.png"
         },
         {
-            "number": "110",
-            "name": "Galarian Weezing",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-weezing.png"
+            "number": "953",
+            "name": "Rellor",
+            "image": "https://img.pokemondb.net/sprites/home/normal/rellor.png"
         },
         {
-            "number": "122",
-            "name": "Galarian Mr. Mime",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-mr-mime.png"
+            "number": "954",
+            "name": "Rabsca",
+            "image": "https://img.pokemondb.net/sprites/home/normal/rabsca.png"
         },
         {
-            "number": "144",
-            "name": "Galarian Articuno",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-articuno.png"
+            "number": "955",
+            "name": "Flittle",
+            "image": "https://img.pokemondb.net/sprites/home/normal/flittle.png"
         },
         {
-            "number": "145",
-            "name": "Galarian Zapdos",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-zapdos.png"
+            "number": "956",
+            "name": "Espathra",
+            "image": "https://img.pokemondb.net/sprites/home/normal/espathra.png"
         },
         {
-            "number": "146",
-            "name": "Galarian Moltres",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-moltres.png"
+            "number": "957",
+            "name": "Tinkatink",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tinkatink.png"
         },
         {
-            "number": "199",
-            "name": "Galarian Slowking",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-slowking.png"
+            "number": "958",
+            "name": "Tinkatuff",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tinkatuff.png"
         }
     ],
     "42": [
         {
-            "number": "222",
-            "name": "Galarian Corsola",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-corsola.png"
+            "number": "959",
+            "name": "Tinkaton",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tinkaton.png"
         },
         {
-            "number": "263",
-            "name": "Galarian Zigzagoon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-zigzagoon.png"
+            "number": "960",
+            "name": "Wiglett",
+            "image": "https://img.pokemondb.net/sprites/home/normal/wiglett.png"
         },
         {
-            "number": "264",
-            "name": "Galarian Linoone",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-linoone.png"
+            "number": "961",
+            "name": "Wugtrio",
+            "image": "https://img.pokemondb.net/sprites/home/normal/wugtrio.png"
         },
         {
-            "number": "554",
-            "name": "Galarian Darumaka",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-darumaka.png"
+            "number": "962",
+            "name": "Bombirdier",
+            "image": "https://img.pokemondb.net/sprites/home/normal/bombirdier.png"
         },
         {
-            "number": "555",
-            "name": "Galarian Darmanitan",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-darmanitan.png"
+            "number": "963",
+            "name": "Finizen",
+            "image": "https://img.pokemondb.net/sprites/home/normal/finizen.png"
         },
         {
-            "number": "562",
-            "name": "Galarian Yamask",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-yamask.png"
+            "number": "964",
+            "name": "Palafin (Zero)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/(zero)-palafin.png"
         },
         {
-            "number": "618",
-            "name": "Galarian Stunfisk",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/galarian-stunfisk.png"
+            "number": "964",
+            "name": "Palafin (Hero)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/(hero)-palafin.png"
         },
         {
-            "number": "58",
-            "name": "Hisuian Growlithe",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-growlithe.png"
+            "number": "965",
+            "name": "Varoom",
+            "image": "https://img.pokemondb.net/sprites/home/normal/varoom.png"
         },
         {
-            "number": "59",
-            "name": "Hisuian Arcanine",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-arcanine.png"
+            "number": "966",
+            "name": "Revavroom",
+            "image": "https://img.pokemondb.net/sprites/home/normal/revavroom.png"
         },
         {
-            "number": "100",
-            "name": "Hisuian Voltorb",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-voltorb.png"
+            "number": "967",
+            "name": "Cyclizar",
+            "image": "https://img.pokemondb.net/sprites/home/normal/cyclizar.png"
         },
         {
-            "number": "101",
-            "name": "Hisuian Electrode",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-electrode.png"
+            "number": "968",
+            "name": "Orthworm",
+            "image": "https://img.pokemondb.net/sprites/home/normal/orthworm.png"
         },
         {
-            "number": "157",
-            "name": "Hisuian Typhlosion",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-typhlosion.png"
+            "number": "969",
+            "name": "Glimmet",
+            "image": "https://img.pokemondb.net/sprites/home/normal/glimmet.png"
         },
         {
-            "number": "211",
-            "name": "Hisuian Qwilfish",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-qwilfish.png"
+            "number": "970",
+            "name": "Glimmora",
+            "image": "https://img.pokemondb.net/sprites/home/normal/glimmora.png"
         },
         {
-            "number": "215",
-            "name": "Hisuian Sneasel (M)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-sneasel.png"
+            "number": "971",
+            "name": "Greavard",
+            "image": "https://img.pokemondb.net/sprites/home/normal/greavard.png"
         },
         {
-            "number": "215",
-            "name": "Hisuian Sneasel (F)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-sneasel-female.png"
+            "number": "972",
+            "name": "Houndstone",
+            "image": "https://img.pokemondb.net/sprites/home/normal/houndstone.png"
         },
         {
-            "number": "503",
-            "name": "Hisuian Samurott",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-samurott.png"
+            "number": "973",
+            "name": "Flamigo",
+            "image": "https://img.pokemondb.net/sprites/home/normal/flamigo.png"
         },
         {
-            "number": "549",
-            "name": "Hisuian Lilligant",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-lilligant.png"
+            "number": "974",
+            "name": "Cetoddle",
+            "image": "https://img.pokemondb.net/sprites/home/normal/cetoddle.png"
         },
         {
-            "number": "550",
-            "name": "Basculin (White-Striped)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/white-basculin.png"
+            "number": "975",
+            "name": "Cetitan",
+            "image": "https://img.pokemondb.net/sprites/home/normal/cetitan.png"
         },
         {
-            "number": "570",
-            "name": "Hisuian Zorua",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-zorua.png"
+            "number": "976",
+            "name": "Veluza",
+            "image": "https://img.pokemondb.net/sprites/home/normal/veluza.png"
         },
         {
-            "number": "571",
-            "name": "Hisuian Zoroark",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-zoroark.png"
+            "number": "977",
+            "name": "Dondozo",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dondozo.png"
         },
         {
-            "number": "628",
-            "name": "Hisuian Braviary",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-braviary.png"
+            "number": "978",
+            "name": "Tatsugiri (Curly)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(curly).png"
         },
         {
-            "number": "705",
-            "name": "Hisuian Sliggoo",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-sliggoo.png"
+            "number": "978",
+            "name": "Tatsugiri (Droopy)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(droopy).png"
         },
         {
-            "number": "706",
-            "name": "Hisuian Goodra",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-goodra.png"
+            "number": "978",
+            "name": "Tatsugiri (Stretchy)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(stretchy).png"
         },
         {
-            "number": "713",
-            "name": "Hisuian Avalugg",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-avalugg.png"
+            "number": "979",
+            "name": "Annihilape",
+            "image": "https://img.pokemondb.net/sprites/home/normal/annihilape.png"
         },
         {
-            "number": "724",
-            "name": "Hisuian Decidueye",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hisuian-decidueye.png"
+            "number": "980",
+            "name": "Clodsire",
+            "image": "https://img.pokemondb.net/sprites/home/normal/clodsire.png"
+        },
+        {
+            "number": "981",
+            "name": "Farigiraf",
+            "image": "https://img.pokemondb.net/sprites/home/normal/farigiraf.png"
+        },
+        {
+            "number": "982",
+            "name": "Dudunsparce (Two-Segment)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce-(two-segment).png"
+        },
+        {
+            "number": "982",
+            "name": "Dudunsparce (Three-Segment)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce-(three-segment).png"
+        },
+        {
+            "number": "983",
+            "name": "Kingambit",
+            "image": "https://img.pokemondb.net/sprites/home/normal/kingambit.png"
+        },
+        {
+            "number": "984",
+            "name": "Great Tusk",
+            "image": "https://img.pokemondb.net/sprites/home/normal/great-tusk.png"
         }
     ],
     "43": [
         {
-            "number": "3",
-            "name": "Venusaur",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/venusaur.png"
+            "number": "985",
+            "name": "Scream Tail",
+            "image": "https://img.pokemondb.net/sprites/home/normal/scream-tail.png"
         },
         {
-            "number": "6",
-            "name": "Charizard",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/charizard.png"
+            "number": "986",
+            "name": "Brute Bonnet",
+            "image": "https://img.pokemondb.net/sprites/home/normal/brute-bonnet.png"
         },
         {
-            "number": "9",
-            "name": "Blastoise",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/blastoise.png"
+            "number": "987",
+            "name": "Flutter Mane",
+            "image": "https://img.pokemondb.net/sprites/home/normal/flutter-mane.png"
         },
         {
-            "number": "12",
-            "name": "Butterfree",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/butterfree.png"
+            "number": "988",
+            "name": "Slither Wing",
+            "image": "https://img.pokemondb.net/sprites/home/normal/slither-wing.png"
         },
         {
-            "number": "25",
-            "name": "Pikachu",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/pikachu.png"
+            "number": "989",
+            "name": "Sandy Shocks",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandy-shocks.png"
         },
         {
-            "number": "52",
-            "name": "Meowth",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/meowth.png"
+            "number": "990",
+            "name": "Iron Treads",
+            "image": "https://img.pokemondb.net/sprites/home/normal/treads-iron.png"
         },
         {
-            "number": "68",
-            "name": "Machamp",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/machamp.png"
+            "number": "991",
+            "name": "Iron Bundle",
+            "image": "https://img.pokemondb.net/sprites/home/normal/bundle-iron.png"
         },
         {
-            "number": "94",
-            "name": "Gengar",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/gengar.png"
+            "number": "992",
+            "name": "Iron Hands",
+            "image": "https://img.pokemondb.net/sprites/home/normal/hands-iron.png"
         },
         {
-            "number": "99",
-            "name": "Kingler",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/kingler.png"
+            "number": "993",
+            "name": "Iron Jugulis",
+            "image": "https://img.pokemondb.net/sprites/home/normal/jugulis-iron.png"
         },
         {
-            "number": "131",
-            "name": "Lapras",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/lapras.png"
+            "number": "994",
+            "name": "Iron Moth",
+            "image": "https://img.pokemondb.net/sprites/home/normal/moth-iron.png"
         },
         {
-            "number": "133",
-            "name": "Eevee",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/eevee.png"
+            "number": "995",
+            "name": "Iron Thorns",
+            "image": "https://img.pokemondb.net/sprites/home/normal/thorns-iron.png"
         },
         {
-            "number": "143",
-            "name": "Snorlax",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/snorlax.png"
+            "number": "996",
+            "name": "Frigibax",
+            "image": "https://img.pokemondb.net/sprites/home/normal/frigibax.png"
         },
         {
-            "number": "569",
-            "name": "Garbodor",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/garbodor.png"
+            "number": "997",
+            "name": "Arctibax",
+            "image": "https://img.pokemondb.net/sprites/home/normal/arctibax.png"
         },
         {
-            "number": "812",
-            "name": "Rillaboom",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/rillaboom.png"
+            "number": "998",
+            "name": "Baxcalibur",
+            "image": "https://img.pokemondb.net/sprites/home/normal/baxcalibur.png"
         },
         {
-            "number": "815",
-            "name": "Cinderace",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/cinderace.png"
+            "number": "999",
+            "name": "Gimmighoul (Chest)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul-(chest).png"
         },
         {
-            "number": "818",
-            "name": "Inteleon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/inteleon.png"
+            "number": "999",
+            "name": "Gimmighoul (Roaming)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul-(roaming).png"
         },
         {
-            "number": "823",
-            "name": "Corviknight",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/corviknight.png"
+            "number": "1000",
+            "name": "Gholdengo",
+            "image": "https://img.pokemondb.net/sprites/home/normal/gholdengo.png"
         },
         {
-            "number": "826",
-            "name": "Orbeetle",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/orbeetle.png"
+            "number": "1001",
+            "name": "Wo-Chien",
+            "image": "https://img.pokemondb.net/sprites/home/normal/wo-chien.png"
         },
         {
-            "number": "834",
-            "name": "Drednaw",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/drednaw.png"
+            "number": "1002",
+            "name": "Chien-Pao",
+            "image": "https://img.pokemondb.net/sprites/home/normal/chien-pao.png"
         },
         {
-            "number": "839",
-            "name": "Coalossal",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/coalossal.png"
+            "number": "1003",
+            "name": "Ting-Lu",
+            "image": "https://img.pokemondb.net/sprites/home/normal/ting-lu.png"
         },
         {
-            "number": "841",
-            "name": "Flapple",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/flapple.png"
+            "number": "1004",
+            "name": "Chi-Yu",
+            "image": "https://img.pokemondb.net/sprites/home/normal/chi-yu.png"
         },
         {
-            "number": "842",
-            "name": "Appletun",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/appletun.png"
+            "number": "1005",
+            "name": "Roaring Moon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/roaring-moon.png"
         },
         {
-            "number": "844",
-            "name": "Sandaconda",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/sandaconda.png"
+            "number": "1006",
+            "name": "Iron Valiant",
+            "image": "https://img.pokemondb.net/sprites/home/normal/valiant-iron.png"
         },
         {
-            "number": "849",
-            "name": "Toxtricity (Amped)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity.png"
+            "number": "1007",
+            "name": "Koraidon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/koraidon.png"
         },
         {
-            "number": "849",
-            "name": "Toxtricity (Low Key)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/toxtricity-low-key.png"
+            "number": "1008",
+            "name": "Miraidon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/miraidon.png"
         },
         {
-            "number": "851",
-            "name": "Centiskorch",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/centiskorch.png"
+            "number": "1009",
+            "name": "Walking Wake",
+            "image": "https://img.pokemondb.net/sprites/home/normal/walking-wake.png"
         },
         {
-            "number": "858",
-            "name": "Hatterene",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/hatterene.png"
-        },
-        {
-            "number": "861",
-            "name": "Grimmsnarl",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/grimmsnarl.png"
-        },
-        {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie.png"
-        },
-        {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-strawberry.png"
+            "number": "1010",
+            "name": "Iron Leaves",
+            "image": "https://img.pokemondb.net/sprites/home/normal/leaves-iron.png"
         }
     ],
     "44": [
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-strawberry.png"
+            "number": "19",
+            "name": "Alolan Rattata",
+            "image": "https://img.pokemondb.net/sprites/home/normal/rattata-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-strawberry.png"
+            "number": "20",
+            "name": "Alolan Raticate",
+            "image": "https://img.pokemondb.net/sprites/home/normal/raticate-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-strawberry.png"
+            "number": "26",
+            "name": "Alolan Raichu",
+            "image": "https://img.pokemondb.net/sprites/home/normal/raichu-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-strawberry.png"
+            "number": "27",
+            "name": "Alolan Sandshrew",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandshrew-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-strawberry.png"
+            "number": "28",
+            "name": "Alolan Sandslash",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandslash-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-strawberry.png"
+            "number": "37",
+            "name": "Alolan Vulpix",
+            "image": "https://img.pokemondb.net/sprites/home/normal/vulpix-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-strawberry.png"
+            "number": "38",
+            "name": "Alolan Ninetales",
+            "image": "https://img.pokemondb.net/sprites/home/normal/ninetales-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-berry.png"
+            "number": "50",
+            "name": "Alolan Diglett",
+            "image": "https://img.pokemondb.net/sprites/home/normal/diglett-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-berry.png"
+            "number": "51",
+            "name": "Alolan Dugtrio",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dugtrio-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-berry.png"
+            "number": "52",
+            "name": "Alolan Meowth",
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowth-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-berry.png"
+            "number": "53",
+            "name": "Alolan Persian",
+            "image": "https://img.pokemondb.net/sprites/home/normal/persian-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-berry.png"
+            "number": "74",
+            "name": "Alolan Geodude",
+            "image": "https://img.pokemondb.net/sprites/home/normal/geodude-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-berry.png"
+            "number": "75",
+            "name": "Alolan Graveler",
+            "image": "https://img.pokemondb.net/sprites/home/normal/graveler-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-berry.png"
+            "number": "76",
+            "name": "Alolan Golem",
+            "image": "https://img.pokemondb.net/sprites/home/normal/golem-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-berry.png"
+            "number": "88",
+            "name": "Alolan Grimer",
+            "image": "https://img.pokemondb.net/sprites/home/normal/grimer-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-berry.png"
+            "number": "89",
+            "name": "Alolan Muk",
+            "image": "https://img.pokemondb.net/sprites/home/normal/muk-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-love.png"
+            "number": "103",
+            "name": "Alolan Exeggutor",
+            "image": "https://img.pokemondb.net/sprites/home/normal/exeggutor-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-love.png"
+            "number": "105",
+            "name": "Alolan Marowak",
+            "image": "https://img.pokemondb.net/sprites/home/normal/marowak-alolan.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-love.png"
+            "number": "52",
+            "name": "Galarian Meowth",
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowth-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-love.png"
+            "number": "77",
+            "name": "Galarian Ponyta",
+            "image": "https://img.pokemondb.net/sprites/home/normal/ponyta-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-love.png"
+            "number": "78",
+            "name": "Galarian Rapidash",
+            "image": "https://img.pokemondb.net/sprites/home/normal/rapidash-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-love.png"
+            "number": "79",
+            "name": "Galarian Slowpoke",
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowpoke-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-love.png"
+            "number": "80",
+            "name": "Galarian Slowbro",
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowbro-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-love.png"
+            "number": "83",
+            "name": "Galarian Farfetch'd",
+            "image": "https://img.pokemondb.net/sprites/home/normal/farfetchd-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-love.png"
+            "number": "110",
+            "name": "Galarian Weezing",
+            "image": "https://img.pokemondb.net/sprites/home/normal/weezing-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-star.png"
+            "number": "122",
+            "name": "Galarian Mr. Mime",
+            "image": "https://img.pokemondb.net/sprites/home/normal/mr-mime-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-star.png"
+            "number": "144",
+            "name": "Galarian Articuno",
+            "image": "https://img.pokemondb.net/sprites/home/normal/articuno-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-star.png"
+            "number": "145",
+            "name": "Galarian Zapdos",
+            "image": "https://img.pokemondb.net/sprites/home/normal/zapdos-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-star.png"
+            "number": "146",
+            "name": "Galarian Moltres",
+            "image": "https://img.pokemondb.net/sprites/home/normal/moltres-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-star.png"
+            "number": "199",
+            "name": "Galarian Slowking",
+            "image": "https://img.pokemondb.net/sprites/home/normal/slowking-galarian.png"
         }
     ],
     "45": [
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-star.png"
+            "number": "222",
+            "name": "Galarian Corsola",
+            "image": "https://img.pokemondb.net/sprites/home/normal/corsola-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-star.png"
+            "number": "263",
+            "name": "Galarian Zigzagoon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/zigzagoon-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-star.png"
+            "number": "264",
+            "name": "Galarian Linoone",
+            "image": "https://img.pokemondb.net/sprites/home/normal/linoone-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-star.png"
+            "number": "554",
+            "name": "Galarian Darumaka",
+            "image": "https://img.pokemondb.net/sprites/home/normal/darumaka-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-clover.png"
+            "number": "555",
+            "name": "Galarian Darmanitan",
+            "image": "https://img.pokemondb.net/sprites/home/normal/darmanitan-galarian-standard.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-clover.png"
+            "number": "562",
+            "name": "Galarian Yamask",
+            "image": "https://img.pokemondb.net/sprites/home/normal/yamask-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-clover.png"
+            "number": "618",
+            "name": "Galarian Stunfisk",
+            "image": "https://img.pokemondb.net/sprites/home/normal/stunfisk-galarian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-clover.png"
+            "number": "58",
+            "name": "Hisuian Growlithe",
+            "image": "https://img.pokemondb.net/sprites/home/normal/growlithe-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-clover.png"
+            "number": "59",
+            "name": "Hisuian Arcanine",
+            "image": "https://img.pokemondb.net/sprites/home/normal/arcanine-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-clover.png"
+            "number": "100",
+            "name": "Hisuian Voltorb",
+            "image": "https://img.pokemondb.net/sprites/home/normal/voltorb-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-clover.png"
+            "number": "101",
+            "name": "Hisuian Electrode",
+            "image": "https://img.pokemondb.net/sprites/home/normal/electrode-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-clover.png"
+            "number": "157",
+            "name": "Hisuian Typhlosion",
+            "image": "https://img.pokemondb.net/sprites/home/normal/typhlosion-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-clover.png"
+            "number": "211",
+            "name": "Hisuian Qwilfish",
+            "image": "https://img.pokemondb.net/sprites/home/normal/qwilfish-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-flower.png"
+            "number": "215",
+            "name": "Hisuian Sneasel (M)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sneasel-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-flower.png"
+            "number": "215",
+            "name": "Hisuian Sneasel (F)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sneasel-hisuian-f.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-flower.png"
+            "number": "503",
+            "name": "Hisuian Samurott",
+            "image": "https://img.pokemondb.net/sprites/home/normal/samurott-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-flower.png"
+            "number": "549",
+            "name": "Hisuian Lilligant",
+            "image": "https://img.pokemondb.net/sprites/home/normal/lilligant-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-flower.png"
+            "number": "550",
+            "name": "Basculin (White-Striped)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/basculin-white-striped.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-flower.png"
+            "number": "570",
+            "name": "Hisuian Zorua",
+            "image": "https://img.pokemondb.net/sprites/home/normal/zorua-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-flower.png"
+            "number": "571",
+            "name": "Hisuian Zoroark",
+            "image": "https://img.pokemondb.net/sprites/home/normal/zoroark-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-flower.png"
+            "number": "628",
+            "name": "Hisuian Braviary",
+            "image": "https://img.pokemondb.net/sprites/home/normal/braviary-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-flower.png"
+            "number": "705",
+            "name": "Hisuian Sliggoo",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sliggoo-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-vanilla-cream-ribbon.png"
+            "number": "706",
+            "name": "Hisuian Goodra",
+            "image": "https://img.pokemondb.net/sprites/home/normal/goodra-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-cream-ribbon.png"
+            "number": "713",
+            "name": "Hisuian Avalugg",
+            "image": "https://img.pokemondb.net/sprites/home/normal/avalugg-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-matcha-cream-ribbon.png"
+            "number": "724",
+            "name": "Hisuian Decidueye",
+            "image": "https://img.pokemondb.net/sprites/home/normal/decidueye-hisuian.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-mint-cream-ribbon.png"
+            "number": "128",
+            "name": "Paldean Tauros (Combat Breed)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tauros-paldean.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-lemon-cream-ribbon.png"
+            "number": "128",
+            "name": "Paldean Tauros (Blaze Breed)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tauros-paldean.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-salted-cream-ribbon.png"
+            "number": "128",
+            "name": "Paldean Tauros (Aqua Breed)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/tauros-paldean.png"
         },
         {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-ruby-swirl-ribbon.png"
-        },
-        {
-            "number": "869",
-            "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-caramel-swirl-ribbon.png"
+            "number": "194",
+            "name": "Paldean Wooper",
+            "image": "https://img.pokemondb.net/sprites/home/normal/wooper-paldean.png"
         }
     ],
     "46": [
         {
+            "number": "3",
+            "name": "Venusaur",
+            "image": "https://img.pokemondb.net/sprites/home/normal/venusaur.png"
+        },
+        {
+            "number": "6",
+            "name": "Charizard",
+            "image": "https://img.pokemondb.net/sprites/home/normal/charizard.png"
+        },
+        {
+            "number": "9",
+            "name": "Blastoise",
+            "image": "https://img.pokemondb.net/sprites/home/normal/blastoise.png"
+        },
+        {
+            "number": "12",
+            "name": "Butterfree",
+            "image": "https://img.pokemondb.net/sprites/home/normal/butterfree.png"
+        },
+        {
+            "number": "25",
+            "name": "Pikachu",
+            "image": "https://img.pokemondb.net/sprites/home/normal/pikachu.png"
+        },
+        {
+            "number": "52",
+            "name": "Meowth",
+            "image": "https://img.pokemondb.net/sprites/home/normal/meowth.png"
+        },
+        {
+            "number": "68",
+            "name": "Machamp",
+            "image": "https://img.pokemondb.net/sprites/home/normal/machamp.png"
+        },
+        {
+            "number": "94",
+            "name": "Gengar",
+            "image": "https://img.pokemondb.net/sprites/home/normal/gengar.png"
+        },
+        {
+            "number": "99",
+            "name": "Kingler",
+            "image": "https://img.pokemondb.net/sprites/home/normal/kingler.png"
+        },
+        {
+            "number": "131",
+            "name": "Lapras",
+            "image": "https://img.pokemondb.net/sprites/home/normal/lapras.png"
+        },
+        {
+            "number": "133",
+            "name": "Eevee",
+            "image": "https://img.pokemondb.net/sprites/home/normal/eevee.png"
+        },
+        {
+            "number": "143",
+            "name": "Snorlax",
+            "image": "https://img.pokemondb.net/sprites/home/normal/snorlax.png"
+        },
+        {
+            "number": "569",
+            "name": "Garbodor",
+            "image": "https://img.pokemondb.net/sprites/home/normal/garbodor.png"
+        },
+        {
+            "number": "812",
+            "name": "Rillaboom",
+            "image": "https://img.pokemondb.net/sprites/home/normal/rillaboom.png"
+        },
+        {
+            "number": "815",
+            "name": "Cinderace",
+            "image": "https://img.pokemondb.net/sprites/home/normal/cinderace.png"
+        },
+        {
+            "number": "818",
+            "name": "Inteleon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/inteleon.png"
+        },
+        {
+            "number": "823",
+            "name": "Corviknight",
+            "image": "https://img.pokemondb.net/sprites/home/normal/corviknight.png"
+        },
+        {
+            "number": "826",
+            "name": "Orbeetle",
+            "image": "https://img.pokemondb.net/sprites/home/normal/orbeetle.png"
+        },
+        {
+            "number": "834",
+            "name": "Drednaw",
+            "image": "https://img.pokemondb.net/sprites/home/normal/drednaw.png"
+        },
+        {
+            "number": "839",
+            "name": "Coalossal",
+            "image": "https://img.pokemondb.net/sprites/home/normal/coalossal.png"
+        },
+        {
+            "number": "841",
+            "name": "Flapple",
+            "image": "https://img.pokemondb.net/sprites/home/normal/flapple.png"
+        },
+        {
+            "number": "842",
+            "name": "Appletun",
+            "image": "https://img.pokemondb.net/sprites/home/normal/appletun.png"
+        },
+        {
+            "number": "844",
+            "name": "Sandaconda",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sandaconda.png"
+        },
+        {
+            "number": "849",
+            "name": "Toxtricity (Amped)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxtricity.png"
+        },
+        {
+            "number": "849",
+            "name": "Toxtricity (Low Key)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/toxtricity-low-key.png"
+        },
+        {
+            "number": "851",
+            "name": "Centiskorch",
+            "image": "https://img.pokemondb.net/sprites/home/normal/centiskorch.png"
+        },
+        {
+            "number": "858",
+            "name": "Hatterene",
+            "image": "https://img.pokemondb.net/sprites/home/normal/hatterene.png"
+        },
+        {
+            "number": "861",
+            "name": "Grimmsnarl",
+            "image": "https://img.pokemondb.net/sprites/home/normal/grimmsnarl.png"
+        },
+        {
             "number": "869",
             "name": "Alcremie",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/alcremie-rainbow-swirl-ribbon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-strawberry.png"
+        }
+    ],
+    "47": [
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-strawberry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-berry.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-love.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-star.png"
+        }
+    ],
+    "48": [
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-star.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-clover.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-flower.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-vanilla-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-matcha-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-mint-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-salted-cream-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-swirl-ribbon.png"
+        },
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-ribbon.png"
+        }
+    ],
+    "49": [
+        {
+            "number": "869",
+            "name": "Alcremie",
+            "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-rainbow-swirl-ribbon.png"
         },
         {
             "number": "879",
             "name": "Copperajah",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/copperajah.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/copperajah.png"
         },
         {
             "number": "884",
             "name": "Duraludon",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/duraludon.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/duraludon.png"
         },
         {
             "number": "892",
             "name": "Urshifu (Single Strike)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/urshifu.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/urshifu.png"
         },
         {
             "number": "892",
             "name": "Urshifu (Rapid Strike)",
-            "image": "https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/full/urshifu-rapid-strike.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/urshifu-rapid-strike.png"
         }
     ]
 }

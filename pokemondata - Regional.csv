@@ -22,9 +22,9 @@ number,name,image
 78,Galarian Rapidash,
 79,Galarian Slowpoke,
 80,Galarian Slowbro,
-83,Galarian Farfetch'd,galarian-farfetchd
+83,Galarian Farfetch'd,farfetchd-galarian
 110,Galarian Weezing,
-122,Galarian Mr. Mime,galarian-mr-mime
+122,Galarian Mr. Mime,mr-mime-galarian
 144,Galarian Articuno,
 145,Galarian Zapdos,
 146,Galarian Moltres,
@@ -33,7 +33,7 @@ number,name,image
 263,Galarian Zigzagoon,
 264,Galarian Linoone,
 554,Galarian Darumaka,
-555,Galarian Darmanitan,
+555,Galarian Darmanitan,darmanitan-galarian-standard
 562,Galarian Yamask,
 618,Galarian Stunfisk,
 58,Hisuian Growlithe,
@@ -42,11 +42,11 @@ number,name,image
 101,Hisuian Electrode,
 157,Hisuian Typhlosion,
 211,Hisuian Qwilfish,
-215,Hisuian Sneasel (M),hisuian-sneasel
-215,Hisuian Sneasel (F),hisuian-sneasel-female
+215,Hisuian Sneasel (M),sneasel-hisuian
+215,Hisuian Sneasel (F),sneasel-hisuian-f
 503,Hisuian Samurott,
 549,Hisuian Lilligant,
-550,Basculin (White-Striped),white-basculin
+550,Basculin (White-Striped),basculin-white-striped
 570,Hisuian Zorua,
 571,Hisuian Zoroark,
 628,Hisuian Braviary,
@@ -54,3 +54,7 @@ number,name,image
 706,Hisuian Goodra,
 713,Hisuian Avalugg,
 724,Hisuian Decidueye,
+128,Paldean Tauros (Combat Breed),
+128,Paldean Tauros (Blaze Breed),
+128,Paldean Tauros (Aqua Breed),
+194,Paldean Wooper,
