@@ -9,7 +9,7 @@ def get_img_src(pokemon_name, pokemon_image):
         img_src += pokemon_name.lower()[:-4] + '.png'
     elif '(F)' in pokemon_name:
         img_src += pokemon_name.lower()[:-4] + '-f.png'
-    elif 'n ' in pokemon_name:
+    elif 'an ' in pokemon_name:
         img_src += pokemon_name.lower().split()[1] + '-' + pokemon_name.lower().split()[0] + '.png'
     elif ' ' in pokemon_name:
         img_src += pokemon_name.lower().replace(' ', '-') + '.png'
@@ -38,7 +38,7 @@ with open(r'pokemondata - Regional.csv', encoding='utf-8') as csvf:
     csvReader = csv.DictReader(csvf)
     index = 0
     for row in csvReader:
-        box_number = int(index / 30) + 44
+        box_number = int(index / 30) + 45
         if box_number not in pokemon_dict:
             pokemon_dict[box_number] = []
         pokemon = {}
@@ -52,7 +52,7 @@ with open(r'pokemondata - Gigantamax.csv', encoding='utf-8') as csvf:
     csvReader = csv.DictReader(csvf)
     index = 0
     for row in csvReader:
-        box_number = int(index / 30) + 46
+        box_number = int(index / 30) + 47
         if box_number not in pokemon_dict:
             pokemon_dict[box_number] = []
         pokemon = {}

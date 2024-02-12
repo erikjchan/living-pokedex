@@ -1182,7 +1182,7 @@ number,name,image
 914,Quaquaval,
 915,Lechonk,
 916,Oinkologne (M),
-916,Oinkologne (F),
+916,Oinkologne (F),oinkologne-female
 917,Tarountula,
 918,Spidops,
 919,Nymble,
@@ -1191,17 +1191,17 @@ number,name,image
 922,Pawmo,
 923,Pawmot,
 924,Tandemaus,
-925,Maushold (Family of Four),
-925,Maushold (Family of Three),
+925,Maushold (Family of Four),maushold
+925,Maushold (Family of Three),maushold-family3
 926,Fidough,
 927,Dachsbun,
 928,Smoliv,
 929,Dolliv,
 930,Arboliva,
-931,Squawkabilly (Green Plumage),
-931,Squawkabilly (Blue Plumage),
-931,Squawkabilly (Yellow Plumage),
-931,Squawkabilly (White Plumage),
+931,Squawkabilly (Green Plumage),squawkabilly
+931,Squawkabilly (Blue Plumage),squawkabilly-blue
+931,Squawkabilly (Yellow Plumage),squawkabilly-yellow
+931,Squawkabilly (White Plumage),squawkabilly-white
 932,Nacli,
 933,Naclstack,
 934,Garganacl,
@@ -1213,7 +1213,7 @@ number,name,image
 940,Wattrel,
 941,Kilowattrel,
 942,Maschiff,
-943,Mabosstiiff,
+943,Mabosstiff,
 944,Shroodle,
 945,Grafaiai,
 946,Bramblin,
@@ -1234,8 +1234,7 @@ number,name,image
 961,Wugtrio,
 962,Bombirdier,
 963,Finizen,
-964,Palafin (Zero),
-964,Palafin (Hero),
+964,Palafin,
 965,Varoom,
 966,Revavroom,
 967,Cyclizar,
@@ -1249,14 +1248,14 @@ number,name,image
 975,Cetitan,
 976,Veluza,
 977,Dondozo,
-978,Tatsugiri (Curly),
-978,Tatsugiri (Droopy),
-978,Tatsugiri (Stretchy),
+978,Tatsugiri (Curly),tatsugiri
+978,Tatsugiri (Droopy),tatsugiri-droopy
+978,Tatsugiri (Stretchy),tatsugiri-stretchy
 979,Annihilape,
 980,Clodsire,
 981,Farigiraf,
-982,Dudunsparce (Two-Segment),
-982,Dudunsparce (Three-Segment),
+982,Dudunsparce (Two-Segment),dudunsparce
+982,Dudunsparce (Three-Segment),dudunsparce-three-segment
 983,Kingambit,
 984,Great Tusk,
 985,Scream Tail,
@@ -1273,8 +1272,8 @@ number,name,image
 996,Frigibax,
 997,Arctibax,
 998,Baxcalibur,
-999,Gimmighoul (Chest),
-999,Gimmighoul (Roaming),
+999,Gimmighoul (Chest),gimmighoul
+999,Gimmighoul (Roaming),gimmighoul-roaming
 1000,Gholdengo,
 1001,Wo-Chien,
 1002,Chien-Pao,
@@ -1286,3 +1285,20 @@ number,name,image
 1008,Miraidon,
 1009,Walking Wake,
 1010,Iron Leaves,
+1011,Dipplin,
+1012,Poltchageist (Counterfeit),poltchageist
+1012,Poltchageist (Artisan),poltchageist
+1013,Sinistcha (Unremarkable),sinistcha
+1013,Sinistcha (Masterpiece),sinistcha
+1014,Okidogi,
+1015,Munkidori,
+1016,Fezandipiti,
+1017,Ogerpon,
+1018,Archaludon,
+1019,Hydrapple,
+1020,Gouging Fire,
+1021,Raging Bolt,
+1022,Iron Boulder,
+1023,Iron Crown,
+1024,Terapagos,
+1025,Pecharunt,

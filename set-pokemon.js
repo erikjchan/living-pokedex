@@ -5996,7 +5996,7 @@ var pokemonList = {
         {
             "number": "916",
             "name": "Oinkologne (F)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/oinkologne-f.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/oinkologne-female.png"
         },
         {
             "number": "917",
@@ -6041,12 +6041,12 @@ var pokemonList = {
         {
             "number": "925",
             "name": "Maushold (Family of Four)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/maushold-(family-of-four).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/maushold.png"
         },
         {
             "number": "925",
             "name": "Maushold (Family of Three)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/maushold-(family-of-three).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/maushold-family3.png"
         },
         {
             "number": "926",
@@ -6076,24 +6076,24 @@ var pokemonList = {
         {
             "number": "931",
             "name": "Squawkabilly (Green Plumage)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/(green-squawkabilly.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly.png"
         }
     ],
     "41": [
         {
             "number": "931",
             "name": "Squawkabilly (Blue Plumage)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(blue-plumage).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-blue.png"
         },
         {
             "number": "931",
             "name": "Squawkabilly (Yellow Plumage)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(yellow-plumage).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-yellow.png"
         },
         {
             "number": "931",
             "name": "Squawkabilly (White Plumage)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-(white-plumage).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/squawkabilly-white.png"
         },
         {
             "number": "932",
@@ -6152,8 +6152,8 @@ var pokemonList = {
         },
         {
             "number": "943",
-            "name": "Mabosstiiff",
-            "image": "https://img.pokemondb.net/sprites/home/normal/mabosstiiff.png"
+            "name": "Mabosstiff",
+            "image": "https://img.pokemondb.net/sprites/home/normal/mabosstiff.png"
         },
         {
             "number": "944",
@@ -6259,13 +6259,8 @@ var pokemonList = {
         },
         {
             "number": "964",
-            "name": "Palafin (Zero)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/(zero)-palafin.png"
-        },
-        {
-            "number": "964",
-            "name": "Palafin (Hero)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/(hero)-palafin.png"
+            "name": "Palafin",
+            "image": "https://img.pokemondb.net/sprites/home/normal/palafin.png"
         },
         {
             "number": "965",
@@ -6335,17 +6330,17 @@ var pokemonList = {
         {
             "number": "978",
             "name": "Tatsugiri (Curly)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(curly).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri.png"
         },
         {
             "number": "978",
             "name": "Tatsugiri (Droopy)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(droopy).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-droopy.png"
         },
         {
             "number": "978",
             "name": "Tatsugiri (Stretchy)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-(stretchy).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/tatsugiri-stretchy.png"
         },
         {
             "number": "979",
@@ -6365,12 +6360,12 @@ var pokemonList = {
         {
             "number": "982",
             "name": "Dudunsparce (Two-Segment)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce-(two-segment).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce.png"
         },
         {
             "number": "982",
             "name": "Dudunsparce (Three-Segment)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce-(three-segment).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/dudunsparce-three-segment.png"
         },
         {
             "number": "983",
@@ -6381,14 +6376,14 @@ var pokemonList = {
             "number": "984",
             "name": "Great Tusk",
             "image": "https://img.pokemondb.net/sprites/home/normal/great-tusk.png"
-        }
-    ],
-    "43": [
+        },
         {
             "number": "985",
             "name": "Scream Tail",
             "image": "https://img.pokemondb.net/sprites/home/normal/scream-tail.png"
-        },
+        }
+    ],
+    "43": [
         {
             "number": "986",
             "name": "Brute Bonnet",
@@ -6412,32 +6407,32 @@ var pokemonList = {
         {
             "number": "990",
             "name": "Iron Treads",
-            "image": "https://img.pokemondb.net/sprites/home/normal/treads-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-treads.png"
         },
         {
             "number": "991",
             "name": "Iron Bundle",
-            "image": "https://img.pokemondb.net/sprites/home/normal/bundle-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-bundle.png"
         },
         {
             "number": "992",
             "name": "Iron Hands",
-            "image": "https://img.pokemondb.net/sprites/home/normal/hands-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-hands.png"
         },
         {
             "number": "993",
             "name": "Iron Jugulis",
-            "image": "https://img.pokemondb.net/sprites/home/normal/jugulis-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-jugulis.png"
         },
         {
             "number": "994",
             "name": "Iron Moth",
-            "image": "https://img.pokemondb.net/sprites/home/normal/moth-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-moth.png"
         },
         {
             "number": "995",
             "name": "Iron Thorns",
-            "image": "https://img.pokemondb.net/sprites/home/normal/thorns-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-thorns.png"
         },
         {
             "number": "996",
@@ -6457,12 +6452,12 @@ var pokemonList = {
         {
             "number": "999",
             "name": "Gimmighoul (Chest)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul-(chest).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul.png"
         },
         {
             "number": "999",
             "name": "Gimmighoul (Roaming)",
-            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul-(roaming).png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/gimmighoul-roaming.png"
         },
         {
             "number": "1000",
@@ -6497,7 +6492,7 @@ var pokemonList = {
         {
             "number": "1006",
             "name": "Iron Valiant",
-            "image": "https://img.pokemondb.net/sprites/home/normal/valiant-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-valiant.png"
         },
         {
             "number": "1007",
@@ -6517,10 +6512,97 @@ var pokemonList = {
         {
             "number": "1010",
             "name": "Iron Leaves",
-            "image": "https://img.pokemondb.net/sprites/home/normal/leaves-iron.png"
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-leaves.png"
+        },
+        {
+            "number": "1011",
+            "name": "Dipplin",
+            "image": "https://img.pokemondb.net/sprites/home/normal/dipplin.png"
+        },
+        {
+            "number": "1012",
+            "name": "Poltchageist (Counterfeit)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/poltchageist.png"
+        },
+        {
+            "number": "1012",
+            "name": "Poltchageist (Artisan)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/poltchageist.png"
+        },
+        {
+            "number": "1013",
+            "name": "Sinistcha (Unremarkable)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sinistcha.png"
         }
     ],
     "44": [
+        {
+            "number": "1013",
+            "name": "Sinistcha (Masterpiece)",
+            "image": "https://img.pokemondb.net/sprites/home/normal/sinistcha.png"
+        },
+        {
+            "number": "1014",
+            "name": "Okidogi",
+            "image": "https://img.pokemondb.net/sprites/home/normal/okidogi.png"
+        },
+        {
+            "number": "1015",
+            "name": "Munkidori",
+            "image": "https://img.pokemondb.net/sprites/home/normal/munkidori.png"
+        },
+        {
+            "number": "1016",
+            "name": "Fezandipiti",
+            "image": "https://img.pokemondb.net/sprites/home/normal/fezandipiti.png"
+        },
+        {
+            "number": "1017",
+            "name": "Ogerpon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/ogerpon.png"
+        },
+        {
+            "number": "1018",
+            "name": "Archaludon",
+            "image": "https://img.pokemondb.net/sprites/home/normal/archaludon.png"
+        },
+        {
+            "number": "1019",
+            "name": "Hydrapple",
+            "image": "https://img.pokemondb.net/sprites/home/normal/hydrapple.png"
+        },
+        {
+            "number": "1020",
+            "name": "Gouging Fire",
+            "image": "https://img.pokemondb.net/sprites/home/normal/gouging-fire.png"
+        },
+        {
+            "number": "1021",
+            "name": "Raging Bolt",
+            "image": "https://img.pokemondb.net/sprites/home/normal/raging-bolt.png"
+        },
+        {
+            "number": "1022",
+            "name": "Iron Boulder",
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-boulder.png"
+        },
+        {
+            "number": "1023",
+            "name": "Iron Crown",
+            "image": "https://img.pokemondb.net/sprites/home/normal/iron-crown.png"
+        },
+        {
+            "number": "1024",
+            "name": "Terapagos",
+            "image": "https://img.pokemondb.net/sprites/home/normal/terapagos.png"
+        },
+        {
+            "number": "1025",
+            "name": "Pecharunt",
+            "image": "https://img.pokemondb.net/sprites/home/normal/pecharunt.png"
+        }
+    ],
+    "45": [
         {
             "number": "19",
             "name": "Alolan Rattata",
@@ -6672,7 +6754,7 @@ var pokemonList = {
             "image": "https://img.pokemondb.net/sprites/home/normal/slowking-galarian.png"
         }
     ],
-    "45": [
+    "46": [
         {
             "number": "222",
             "name": "Galarian Corsola",
@@ -6819,7 +6901,7 @@ var pokemonList = {
             "image": "https://img.pokemondb.net/sprites/home/normal/wooper-paldean.png"
         }
     ],
-    "46": [
+    "47": [
         {
             "number": "3",
             "name": "Venusaur",
@@ -6971,7 +7053,7 @@ var pokemonList = {
             "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-ruby-cream-strawberry.png"
         }
     ],
-    "47": [
+    "48": [
         {
             "number": "869",
             "name": "Alcremie",
@@ -7123,7 +7205,7 @@ var pokemonList = {
             "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-lemon-cream-star.png"
         }
     ],
-    "48": [
+    "49": [
         {
             "number": "869",
             "name": "Alcremie",
@@ -7275,7 +7357,7 @@ var pokemonList = {
             "image": "https://img.pokemondb.net/sprites/home/normal/alcremie-caramel-swirl-ribbon.png"
         }
     ],
-    "49": [
+    "50": [
         {
             "number": "869",
             "name": "Alcremie",
